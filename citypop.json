@@ -1,2762 +1,2762 @@
 [
   {
     "year": 1790,
-    "age": 1,
-    "sex": "Philadelphia",
-    "people": 44.1
+    "rank": 1,
+    "city": "Philadelphia",
+    "pop": 44.1
   },
   {
     "year": 1790,
-    "age": 2,
-    "sex": "New York",
-    "people": 33.1
+    "rank": 2,
+    "city": "New York",
+    "pop": 33.1
   },
   {
     "year": 1790,
-    "age": 3,
-    "sex": "Boston",
-    "people": 18.3
+    "rank": 3,
+    "city": "Boston",
+    "pop": 18.3
   },
   {
     "year": 1790,
-    "age": 4,
-    "sex": "Charleston",
-    "people": 16.4
+    "rank": 4,
+    "city": "Charleston",
+    "pop": 16.4
   },
   {
     "year": 1790,
-    "age": 5,
-    "sex": "Salem, MA",
-    "people": 13.6
+    "rank": 5,
+    "city": "Salem, MA",
+    "pop": 13.6
   },
   {
     "year": 1790,
-    "age": 6,
-    "sex": "Baltimore",
-    "people": 13.5
+    "rank": 6,
+    "city": "Baltimore",
+    "pop": 13.5
   },
   {
     "year": 1790,
-    "age": 7,
-    "sex": "Newport, RI",
-    "people": 6.7
+    "rank": 7,
+    "city": "Newport, RI",
+    "pop": 6.7
   },
   {
     "year": 1790,
-    "age": 8,
-    "sex": "Providence",
-    "people": 6.4
+    "rank": 8,
+    "city": "Providence",
+    "pop": 6.4
   },
   {
     "year": 1790,
-    "age": 9,
-    "sex": "Gloucester, MA",
-    "people": 5.3
+    "rank": 9,
+    "city": "Gloucester, MA",
+    "pop": 5.3
   },
   {
     "year": 1790,
-    "age": 10,
-    "sex": "Newburyport, MA",
-    "people": 4.8
+    "rank": 10,
+    "city": "Newburyport, MA",
+    "pop": 4.8
   },
   {
     "year": 1790,
-    "age": 11,
-    "sex": "Portsmouth, NH",
-    "people": 4.7
+    "rank": 11,
+    "city": "Portsmouth, NH",
+    "pop": 4.7
   },
   {
     "year": 1790,
-    "age": 12,
-    "sex": "Nantucket",
-    "people": 4.6
+    "rank": 12,
+    "city": "Nantucket",
+    "pop": 4.6
   },
   {
     "year": 1790,
-    "age": 13,
-    "sex": "Middleborough, MA",
-    "people": 4.5
+    "rank": 13,
+    "city": "Middleborough, MA",
+    "pop": 4.5
   },
   {
     "year": 1790,
-    "age": 14,
-    "sex": "New Haven",
-    "people": 4.5
+    "rank": 14,
+    "city": "New Haven",
+    "pop": 4.5
   },
   {
     "year": 1790,
-    "age": 15,
-    "sex": "Richmond",
-    "people": 3.8
+    "rank": 15,
+    "city": "Richmond",
+    "pop": 3.8
   },
   {
     "year": 1790,
-    "age": 16,
-    "sex": "Albany",
-    "people": 3.5
+    "rank": 16,
+    "city": "Albany",
+    "pop": 3.5
   },
   {
     "year": 1790,
-    "age": 17,
-    "sex": "Norfolk",
-    "people": 3
+    "rank": 17,
+    "city": "Norfolk",
+    "pop": 3
   },
   {
     "year": 1790,
-    "age": 18,
-    "sex": "Petersburg, VA",
-    "people": 2.8
+    "rank": 18,
+    "city": "Petersburg, VA",
+    "pop": 2.8
   },
   {
     "year": 1790,
-    "age": 19,
-    "sex": "Alexandria, VA",
-    "people": 2.8
+    "rank": 19,
+    "city": "Alexandria, VA",
+    "pop": 2.8
   },
   {
     "year": 1790,
-    "age": 20,
-    "sex": "Hartford",
-    "people": 2.7
+    "rank": 20,
+    "city": "Hartford",
+    "pop": 2.7
   },
   {
     "year": 1800,
-    "age": 1,
-    "sex": "Philadelphia",
-    "people": 61.6
+    "rank": 1,
+    "city": "Philadelphia",
+    "pop": 61.6
   },
   {
     "year": 1800,
-    "age": 2,
-    "sex": "New York",
-    "people": 60.5
+    "rank": 2,
+    "city": "New York",
+    "pop": 60.5
   },
   {
     "year": 1800,
-    "age": 3,
-    "sex": "Baltimore",
-    "people": 26.5
+    "rank": 3,
+    "city": "Baltimore",
+    "pop": 26.5
   },
   {
     "year": 1800,
-    "age": 4,
-    "sex": "Boston",
-    "people": 24.9
+    "rank": 4,
+    "city": "Boston",
+    "pop": 24.9
   },
   {
     "year": 1800,
-    "age": 5,
-    "sex": "Charleston",
-    "people": 18.8
+    "rank": 5,
+    "city": "Charleston",
+    "pop": 18.8
   },
   {
     "year": 1800,
-    "age": 6,
-    "sex": "Salem, MA",
-    "people": 14.7
+    "rank": 6,
+    "city": "Salem, MA",
+    "pop": 14.7
   },
   {
     "year": 1800,
-    "age": 7,
-    "sex": "Washington",
-    "people": 11.2
+    "rank": 7,
+    "city": "Washington",
+    "pop": 11.2
   },
   {
     "year": 1800,
-    "age": 8,
-    "sex": "Providence",
-    "people": 7.6
+    "rank": 8,
+    "city": "Providence",
+    "pop": 7.6
   },
   {
     "year": 1800,
-    "age": 9,
-    "sex": "Norfolk",
-    "people": 6.9
+    "rank": 9,
+    "city": "Norfolk",
+    "pop": 6.9
   },
   {
     "year": 1800,
-    "age": 10,
-    "sex": "Newport, RI",
-    "people": 6.7
+    "rank": 10,
+    "city": "Newport, RI",
+    "pop": 6.7
   },
   {
     "year": 1800,
-    "age": 11,
-    "sex": "Newburyport, MA",
-    "people": 6
+    "rank": 11,
+    "city": "Newburyport, MA",
+    "pop": 6
   },
   {
     "year": 1800,
-    "age": 12,
-    "sex": "Richmond",
-    "people": 5.7
+    "rank": 12,
+    "city": "Richmond",
+    "pop": 5.7
   },
   {
     "year": 1800,
-    "age": 13,
-    "sex": "Nantucket",
-    "people": 5.6
+    "rank": 13,
+    "city": "Nantucket",
+    "pop": 5.6
   },
   {
     "year": 1800,
-    "age": 14,
-    "sex": "Portsmouth, NH",
-    "people": 5.3
+    "rank": 14,
+    "city": "Portsmouth, NH",
+    "pop": 5.3
   },
   {
     "year": 1800,
-    "age": 15,
-    "sex": "Gloucester, MA",
-    "people": 5.3
+    "rank": 15,
+    "city": "Gloucester, MA",
+    "pop": 5.3
   },
   {
     "year": 1800,
-    "age": 16,
-    "sex": "Schenectady, NY",
-    "people": 5.3
+    "rank": 16,
+    "city": "Schenectady, NY",
+    "pop": 5.3
   },
   {
     "year": 1800,
-    "age": 17,
-    "sex": "Albany",
-    "people": 5.3
+    "rank": 17,
+    "city": "Albany",
+    "pop": 5.3
   },
   {
     "year": 1800,
-    "age": 18,
-    "sex": "New London, CT",
-    "people": 5.2
+    "rank": 18,
+    "city": "New London, CT",
+    "pop": 5.2
   },
   {
     "year": 1800,
-    "age": 19,
-    "sex": "Savannah",
-    "people": 5.2
+    "rank": 19,
+    "city": "Savannah",
+    "pop": 5.2
   },
   {
     "year": 1800,
-    "age": 20,
-    "sex": "Middleborough, MA",
-    "people": 4.5
+    "rank": 20,
+    "city": "Middleborough, MA",
+    "pop": 4.5
   },
   {
     "year": 1810,
-    "age": 1,
-    "sex": "New York",
-    "people": 101
+    "rank": 1,
+    "city": "New York",
+    "pop": 101
   },
   {
     "year": 1810,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 87.3
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 87.3
   },
   {
     "year": 1810,
-    "age": 3,
-    "sex": "Baltimore",
-    "people": 46.6
+    "rank": 3,
+    "city": "Baltimore",
+    "pop": 46.6
   },
   {
     "year": 1810,
-    "age": 4,
-    "sex": "Boston",
-    "people": 38.7
+    "rank": 4,
+    "city": "Boston",
+    "pop": 38.7
   },
   {
     "year": 1810,
-    "age": 5,
-    "sex": "Charleston",
-    "people": 24.7
+    "rank": 5,
+    "city": "Charleston",
+    "pop": 24.7
   },
   {
     "year": 1810,
-    "age": 6,
-    "sex": "Salem, MA",
-    "people": 23.1
+    "rank": 6,
+    "city": "Salem, MA",
+    "pop": 23.1
   },
   {
     "year": 1810,
-    "age": 7,
-    "sex": "Washington",
-    "people": 20.4
+    "rank": 7,
+    "city": "Washington",
+    "pop": 20.4
   },
   {
     "year": 1810,
-    "age": 8,
-    "sex": "New Orleans",
-    "people": 17.2
+    "rank": 8,
+    "city": "New Orleans",
+    "pop": 17.2
   },
   {
     "year": 1810,
-    "age": 9,
-    "sex": "Albany",
-    "people": 10.8
+    "rank": 9,
+    "city": "Albany",
+    "pop": 10.8
   },
   {
     "year": 1810,
-    "age": 10,
-    "sex": "Providence",
-    "people": 10.1
+    "rank": 10,
+    "city": "Providence",
+    "pop": 10.1
   },
   {
     "year": 1810,
-    "age": 11,
-    "sex": "Richmond",
-    "people": 9.7
+    "rank": 11,
+    "city": "Richmond",
+    "pop": 9.7
   },
   {
     "year": 1810,
-    "age": 12,
-    "sex": "Norfolk",
-    "people": 9.2
+    "rank": 12,
+    "city": "Norfolk",
+    "pop": 9.2
   },
   {
     "year": 1810,
-    "age": 13,
-    "sex": "Newport, RI",
-    "people": 7.9
+    "rank": 13,
+    "city": "Newport, RI",
+    "pop": 7.9
   },
   {
     "year": 1810,
-    "age": 14,
-    "sex": "Newburyport, MA",
-    "people": 7.6
+    "rank": 14,
+    "city": "Newburyport, MA",
+    "pop": 7.6
   },
   {
     "year": 1810,
-    "age": 15,
-    "sex": "Portland, ME",
-    "people": 7.2
+    "rank": 15,
+    "city": "Portland, ME",
+    "pop": 7.2
   },
   {
     "year": 1810,
-    "age": 16,
-    "sex": "Portsmouth, NH",
-    "people": 6.9
+    "rank": 16,
+    "city": "Portsmouth, NH",
+    "pop": 6.9
   },
   {
     "year": 1810,
-    "age": 17,
-    "sex": "Nantucket",
-    "people": 6.8
+    "rank": 17,
+    "city": "Nantucket",
+    "pop": 6.8
   },
   {
     "year": 1810,
-    "age": 18,
-    "sex": "Gloucester, MA",
-    "people": 5.9
+    "rank": 18,
+    "city": "Gloucester, MA",
+    "pop": 5.9
   },
   {
     "year": 1810,
-    "age": 19,
-    "sex": "Schenectady, NY",
-    "people": 5.9
+    "rank": 19,
+    "city": "Schenectady, NY",
+    "pop": 5.9
   },
   {
     "year": 1810,
-    "age": 20,
-    "sex": "New Haven",
-    "people": 5.8
+    "rank": 20,
+    "city": "New Haven",
+    "pop": 5.8
   },
   {
     "year": 1820,
-    "age": 1,
-    "sex": "New York",
-    "people": 131
+    "rank": 1,
+    "city": "New York",
+    "pop": 131
   },
   {
     "year": 1820,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 109
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 109
   },
   {
     "year": 1820,
-    "age": 3,
-    "sex": "Baltimore",
-    "people": 62.7
+    "rank": 3,
+    "city": "Baltimore",
+    "pop": 62.7
   },
   {
     "year": 1820,
-    "age": 4,
-    "sex": "Boston",
-    "people": 54
+    "rank": 4,
+    "city": "Boston",
+    "pop": 54
   },
   {
     "year": 1820,
-    "age": 5,
-    "sex": "Washington",
-    "people": 28.8
+    "rank": 5,
+    "city": "Washington",
+    "pop": 28.8
   },
   {
     "year": 1820,
-    "age": 6,
-    "sex": "New Orleans",
-    "people": 27.2
+    "rank": 6,
+    "city": "New Orleans",
+    "pop": 27.2
   },
   {
     "year": 1820,
-    "age": 7,
-    "sex": "Charleston",
-    "people": 24.8
+    "rank": 7,
+    "city": "Charleston",
+    "pop": 24.8
   },
   {
     "year": 1820,
-    "age": 8,
-    "sex": "Salem, MA",
-    "people": 22.6
+    "rank": 8,
+    "city": "Salem, MA",
+    "pop": 22.6
   },
   {
     "year": 1820,
-    "age": 9,
-    "sex": "Albany",
-    "people": 17.9
+    "rank": 9,
+    "city": "Albany",
+    "pop": 17.9
   },
   {
     "year": 1820,
-    "age": 10,
-    "sex": "Richmond",
-    "people": 12.1
+    "rank": 10,
+    "city": "Richmond",
+    "pop": 12.1
   },
   {
     "year": 1820,
-    "age": 11,
-    "sex": "Providence",
-    "people": 11.8
+    "rank": 11,
+    "city": "Providence",
+    "pop": 11.8
   },
   {
     "year": 1820,
-    "age": 12,
-    "sex": "Cincinnati",
-    "people": 9.6
+    "rank": 12,
+    "city": "Cincinnati",
+    "pop": 9.6
   },
   {
     "year": 1820,
-    "age": 13,
-    "sex": "Portland, ME",
-    "people": 8.6
+    "rank": 13,
+    "city": "Portland, ME",
+    "pop": 8.6
   },
   {
     "year": 1820,
-    "age": 14,
-    "sex": "Norfolk",
-    "people": 8.5
+    "rank": 14,
+    "city": "Norfolk",
+    "pop": 8.5
   },
   {
     "year": 1820,
-    "age": 15,
-    "sex": "Savannah",
-    "people": 7.5
+    "rank": 15,
+    "city": "Savannah",
+    "pop": 7.5
   },
   {
     "year": 1820,
-    "age": 16,
-    "sex": "Portsmouth, NH",
-    "people": 7.3
+    "rank": 16,
+    "city": "Portsmouth, NH",
+    "pop": 7.3
   },
   {
     "year": 1820,
-    "age": 17,
-    "sex": "Newport, RI",
-    "people": 7.3
+    "rank": 17,
+    "city": "Newport, RI",
+    "pop": 7.3
   },
   {
     "year": 1820,
-    "age": 18,
-    "sex": "Nantucket",
-    "people": 7.3
+    "rank": 18,
+    "city": "Nantucket",
+    "pop": 7.3
   },
   {
     "year": 1820,
-    "age": 19,
-    "sex": "Pittsburgh",
-    "people": 7.3
+    "rank": 19,
+    "city": "Pittsburgh",
+    "pop": 7.3
   },
   {
     "year": 1820,
-    "age": 20,
-    "sex": "New Haven",
-    "people": 7.2
+    "rank": 20,
+    "city": "New Haven",
+    "pop": 7.2
   },
   {
     "year": 1830,
-    "age": 1,
-    "sex": "New York",
-    "people": 215
+    "rank": 1,
+    "city": "New York",
+    "pop": 215
   },
   {
     "year": 1830,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 161
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 161
   },
   {
     "year": 1830,
-    "age": 3,
-    "sex": "Boston",
-    "people": 85.6
+    "rank": 3,
+    "city": "Boston",
+    "pop": 85.6
   },
   {
     "year": 1830,
-    "age": 4,
-    "sex": "Baltimore",
-    "people": 80.6
+    "rank": 4,
+    "city": "Baltimore",
+    "pop": 80.6
   },
   {
     "year": 1830,
-    "age": 5,
-    "sex": "New Orleans",
-    "people": 46.1
+    "rank": 5,
+    "city": "New Orleans",
+    "pop": 46.1
   },
   {
     "year": 1830,
-    "age": 6,
-    "sex": "Albany",
-    "people": 35.8
+    "rank": 6,
+    "city": "Albany",
+    "pop": 35.8
   },
   {
     "year": 1830,
-    "age": 7,
-    "sex": "Washington",
-    "people": 35.5
+    "rank": 7,
+    "city": "Washington",
+    "pop": 35.5
   },
   {
     "year": 1830,
-    "age": 8,
-    "sex": "Charleston",
-    "people": 30.3
+    "rank": 8,
+    "city": "Charleston",
+    "pop": 30.3
   },
   {
     "year": 1830,
-    "age": 9,
-    "sex": "Salem, MA",
-    "people": 27.3
+    "rank": 9,
+    "city": "Salem, MA",
+    "pop": 27.3
   },
   {
     "year": 1830,
-    "age": 10,
-    "sex": "Cincinnati",
-    "people": 24.8
+    "rank": 10,
+    "city": "Cincinnati",
+    "pop": 24.8
   },
   {
     "year": 1830,
-    "age": 11,
-    "sex": "Providence",
-    "people": 22.4
+    "rank": 11,
+    "city": "Providence",
+    "pop": 22.4
   },
   {
     "year": 1830,
-    "age": 12,
-    "sex": "Richmond",
-    "people": 16.1
+    "rank": 12,
+    "city": "Richmond",
+    "pop": 16.1
   },
   {
     "year": 1830,
-    "age": 13,
-    "sex": "Pittsburgh",
-    "people": 15.4
+    "rank": 13,
+    "city": "Pittsburgh",
+    "pop": 15.4
   },
   {
     "year": 1830,
-    "age": 14,
-    "sex": "Newark",
-    "people": 14.4
+    "rank": 14,
+    "city": "Newark",
+    "pop": 14.4
   },
   {
     "year": 1830,
-    "age": 15,
-    "sex": "Portland, ME",
-    "people": 12.6
+    "rank": 15,
+    "city": "Portland, ME",
+    "pop": 12.6
   },
   {
     "year": 1830,
-    "age": 16,
-    "sex": "Louisville",
-    "people": 10.3
+    "rank": 16,
+    "city": "Louisville",
+    "pop": 10.3
   },
   {
     "year": 1830,
-    "age": 17,
-    "sex": "New Haven",
-    "people": 10.2
+    "rank": 17,
+    "city": "New Haven",
+    "pop": 10.2
   },
   {
     "year": 1830,
-    "age": 18,
-    "sex": "Norfolk",
-    "people": 9.8
+    "rank": 18,
+    "city": "Norfolk",
+    "pop": 9.8
   },
   {
     "year": 1830,
-    "age": 19,
-    "sex": "Rochester",
-    "people": 9.2
+    "rank": 19,
+    "city": "Rochester",
+    "pop": 9.2
   },
   {
     "year": 1830,
-    "age": 20,
-    "sex": "Buffalo",
-    "people": 8.7
+    "rank": 20,
+    "city": "Buffalo",
+    "pop": 8.7
   },
   {
     "year": 1840,
-    "age": 1,
-    "sex": "New York",
-    "people": 374
+    "rank": 1,
+    "city": "New York",
+    "pop": 374
   },
   {
     "year": 1840,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 259
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 259
   },
   {
     "year": 1840,
-    "age": 3,
-    "sex": "Boston",
-    "people": 183
+    "rank": 3,
+    "city": "Boston",
+    "pop": 183
   },
   {
     "year": 1840,
-    "age": 4,
-    "sex": "Baltimore",
-    "people": 110
+    "rank": 4,
+    "city": "Baltimore",
+    "pop": 110
   },
   {
     "year": 1840,
-    "age": 5,
-    "sex": "New Orleans",
-    "people": 105
+    "rank": 5,
+    "city": "New Orleans",
+    "pop": 105
   },
   {
     "year": 1840,
-    "age": 6,
-    "sex": "Albany",
-    "people": 72
+    "rank": 6,
+    "city": "Albany",
+    "pop": 72
   },
   {
     "year": 1840,
-    "age": 7,
-    "sex": "Cincinnati",
-    "people": 54.8
+    "rank": 7,
+    "city": "Cincinnati",
+    "pop": 54.8
   },
   {
     "year": 1840,
-    "age": 8,
-    "sex": "Washington",
-    "people": 50.2
+    "rank": 8,
+    "city": "Washington",
+    "pop": 50.2
   },
   {
     "year": 1840,
-    "age": 9,
-    "sex": "Pittsburgh",
-    "people": 43.7
+    "rank": 9,
+    "city": "Pittsburgh",
+    "pop": 43.7
   },
   {
     "year": 1840,
-    "age": 10,
-    "sex": "Charleston",
-    "people": 42.6
+    "rank": 10,
+    "city": "Charleston",
+    "pop": 42.6
   },
   {
     "year": 1840,
-    "age": 11,
-    "sex": "Providence",
-    "people": 40.9
+    "rank": 11,
+    "city": "Providence",
+    "pop": 40.9
   },
   {
     "year": 1840,
-    "age": 12,
-    "sex": "Louisville",
-    "people": 34.2
+    "rank": 12,
+    "city": "Louisville",
+    "pop": 34.2
   },
   {
     "year": 1840,
-    "age": 13,
-    "sex": "Rochester",
-    "people": 31.4
+    "rank": 13,
+    "city": "Rochester",
+    "pop": 31.4
   },
   {
     "year": 1840,
-    "age": 14,
-    "sex": "Newark",
-    "people": 29.8
+    "rank": 14,
+    "city": "Newark",
+    "pop": 29.8
   },
   {
     "year": 1840,
-    "age": 15,
-    "sex": "Buffalo",
-    "people": 29.3
+    "rank": 15,
+    "city": "Buffalo",
+    "pop": 29.3
   },
   {
     "year": 1840,
-    "age": 16,
-    "sex": "Portland, ME",
-    "people": 28.6
+    "rank": 16,
+    "city": "Portland, ME",
+    "pop": 28.6
   },
   {
     "year": 1840,
-    "age": 17,
-    "sex": "St. Louis",
-    "people": 28.4
+    "rank": 17,
+    "city": "St. Louis",
+    "pop": 28.4
   },
   {
     "year": 1840,
-    "age": 18,
-    "sex": "New Bedford",
-    "people": 24.1
+    "rank": 18,
+    "city": "New Bedford",
+    "pop": 24.1
   },
   {
     "year": 1840,
-    "age": 19,
-    "sex": "New Haven",
-    "people": 21.9
+    "rank": 19,
+    "city": "New Haven",
+    "pop": 21.9
   },
   {
     "year": 1840,
-    "age": 20,
-    "sex": "Detroit",
-    "people": 21.2
+    "rank": 20,
+    "city": "Detroit",
+    "pop": 21.2
   },
   {
     "year": 1850,
-    "age": 1,
-    "sex": "New York",
-    "people": 650
+    "rank": 1,
+    "city": "New York",
+    "pop": 650
   },
   {
     "year": 1850,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 405
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 405
   },
   {
     "year": 1850,
-    "age": 3,
-    "sex": "Boston",
-    "people": 308
+    "rank": 3,
+    "city": "Boston",
+    "pop": 308
   },
   {
     "year": 1850,
-    "age": 4,
-    "sex": "Baltimore",
-    "people": 179
+    "rank": 4,
+    "city": "Baltimore",
+    "pop": 179
   },
   {
     "year": 1850,
-    "age": 5,
-    "sex": "Cincinnati",
-    "people": 133
+    "rank": 5,
+    "city": "Cincinnati",
+    "pop": 133
   },
   {
     "year": 1850,
-    "age": 6,
-    "sex": "New Orleans",
-    "people": 123
+    "rank": 6,
+    "city": "New Orleans",
+    "pop": 123
   },
   {
     "year": 1850,
-    "age": 7,
-    "sex": "Albany",
-    "people": 107
+    "rank": 7,
+    "city": "Albany",
+    "pop": 107
   },
   {
     "year": 1850,
-    "age": 8,
-    "sex": "St. Louis",
-    "people": 95
+    "rank": 8,
+    "city": "St. Louis",
+    "pop": 95
   },
   {
     "year": 1850,
-    "age": 9,
-    "sex": "Pittsburgh",
-    "people": 86
+    "rank": 9,
+    "city": "Pittsburgh",
+    "pop": 86
   },
   {
     "year": 1850,
-    "age": 10,
-    "sex": "Buffalo",
-    "people": 80
+    "rank": 10,
+    "city": "Buffalo",
+    "pop": 80
   },
   {
     "year": 1850,
-    "age": 11,
-    "sex": "Washington",
-    "people": 67
+    "rank": 11,
+    "city": "Washington",
+    "pop": 67
   },
   {
     "year": 1850,
-    "age": 12,
-    "sex": "Providence",
-    "people": 65
+    "rank": 12,
+    "city": "Providence",
+    "pop": 65
   },
   {
     "year": 1850,
-    "age": 13,
-    "sex": "Louisville",
-    "people": 61
+    "rank": 13,
+    "city": "Louisville",
+    "pop": 61
   },
   {
     "year": 1850,
-    "age": 14,
-    "sex": "Newark",
-    "people": 57
+    "rank": 14,
+    "city": "Newark",
+    "pop": 57
   },
   {
     "year": 1850,
-    "age": 15,
-    "sex": "Charleston",
-    "people": 50
+    "rank": 15,
+    "city": "Charleston",
+    "pop": 50
   },
   {
     "year": 1850,
-    "age": 16,
-    "sex": "Rochester",
-    "people": 49
+    "rank": 16,
+    "city": "Rochester",
+    "pop": 49
   },
   {
     "year": 1850,
-    "age": 17,
-    "sex": "Chicago",
-    "people": 40
+    "rank": 17,
+    "city": "Chicago",
+    "pop": 40
   },
   {
     "year": 1850,
-    "age": 18,
-    "sex": "Syracuse",
-    "people": 38
+    "rank": 18,
+    "city": "Syracuse",
+    "pop": 38
   },
   {
     "year": 1850,
-    "age": 19,
-    "sex": "Detroit",
-    "people": 38
+    "rank": 19,
+    "city": "Detroit",
+    "pop": 38
   },
   {
     "year": 1850,
-    "age": 20,
-    "sex": "Portland, ME",
-    "people": 36
+    "rank": 20,
+    "city": "Portland, ME",
+    "pop": 36
   },
   {
     "year": 1860,
-    "age": 1,
-    "sex": "New York",
-    "people": 1143
+    "rank": 1,
+    "city": "New York",
+    "pop": 1143
   },
   {
     "year": 1860,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 608
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 608
   },
   {
     "year": 1860,
-    "age": 3,
-    "sex": "Boston",
-    "people": 374
+    "rank": 3,
+    "city": "Boston",
+    "pop": 374
   },
   {
     "year": 1860,
-    "age": 4,
-    "sex": "Baltimore",
-    "people": 221
+    "rank": 4,
+    "city": "Baltimore",
+    "pop": 221
   },
   {
     "year": 1860,
-    "age": 5,
-    "sex": "Cincinnati",
-    "people": 192
+    "rank": 5,
+    "city": "Cincinnati",
+    "pop": 192
   },
   {
     "year": 1860,
-    "age": 6,
-    "sex": "St. Louis",
-    "people": 176
+    "rank": 6,
+    "city": "St. Louis",
+    "pop": 176
   },
   {
     "year": 1860,
-    "age": 7,
-    "sex": "New Orleans",
-    "people": 172
+    "rank": 7,
+    "city": "New Orleans",
+    "pop": 172
   },
   {
     "year": 1860,
-    "age": 8,
-    "sex": "Chicago",
-    "people": 123
+    "rank": 8,
+    "city": "Chicago",
+    "pop": 123
   },
   {
     "year": 1860,
-    "age": 9,
-    "sex": "Albany",
-    "people": 116
+    "rank": 9,
+    "city": "Albany",
+    "pop": 116
   },
   {
     "year": 1860,
-    "age": 10,
-    "sex": "Newark",
-    "people": 103
+    "rank": 10,
+    "city": "Newark",
+    "pop": 103
   },
   {
     "year": 1860,
-    "age": 11,
-    "sex": "Pittsburgh",
-    "people": 93
+    "rank": 11,
+    "city": "Pittsburgh",
+    "pop": 93
   },
   {
     "year": 1860,
-    "age": 12,
-    "sex": "Buffalo",
-    "people": 90
+    "rank": 12,
+    "city": "Buffalo",
+    "pop": 90
   },
   {
     "year": 1860,
-    "age": 13,
-    "sex": "Louisville",
-    "people": 88
+    "rank": 13,
+    "city": "Louisville",
+    "pop": 88
   },
   {
     "year": 1860,
-    "age": 14,
-    "sex": "Washington",
-    "people": 80
+    "rank": 14,
+    "city": "Washington",
+    "pop": 80
   },
   {
     "year": 1860,
-    "age": 15,
-    "sex": "Providence",
-    "people": 69
+    "rank": 15,
+    "city": "Providence",
+    "pop": 69
   },
   {
     "year": 1860,
-    "age": 16,
-    "sex": "Detroit",
-    "people": 59
+    "rank": 16,
+    "city": "Detroit",
+    "pop": 59
   },
   {
     "year": 1860,
-    "age": 17,
-    "sex": "San Francisco",
-    "people": 57
+    "rank": 17,
+    "city": "San Francisco",
+    "pop": 57
   },
   {
     "year": 1860,
-    "age": 18,
-    "sex": "Rochester",
-    "people": 56
+    "rank": 18,
+    "city": "Rochester",
+    "pop": 56
   },
   {
     "year": 1860,
-    "age": 19,
-    "sex": "Cleveland",
-    "people": 49
+    "rank": 19,
+    "city": "Cleveland",
+    "pop": 49
   },
   {
     "year": 1860,
-    "age": 20,
-    "sex": "Milwaukee",
-    "people": 48
+    "rank": 20,
+    "city": "Milwaukee",
+    "pop": 48
   },
   {
     "year": 1870,
-    "age": 1,
-    "sex": "New York",
-    "people": 1687
+    "rank": 1,
+    "city": "New York",
+    "pop": 1687
   },
   {
     "year": 1870,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 747
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 747
   },
   {
     "year": 1870,
-    "age": 3,
-    "sex": "Boston",
-    "people": 501
+    "rank": 3,
+    "city": "Boston",
+    "pop": 501
   },
   {
     "year": 1870,
-    "age": 4,
-    "sex": "St. Louis",
-    "people": 345
+    "rank": 4,
+    "city": "St. Louis",
+    "pop": 345
   },
   {
     "year": 1870,
-    "age": 5,
-    "sex": "Chicago",
-    "people": 324
+    "rank": 5,
+    "city": "Chicago",
+    "pop": 324
   },
   {
     "year": 1870,
-    "age": 6,
-    "sex": "Baltimore",
-    "people": 283
+    "rank": 6,
+    "city": "Baltimore",
+    "pop": 283
   },
   {
     "year": 1870,
-    "age": 7,
-    "sex": "Cincinnati",
-    "people": 257
+    "rank": 7,
+    "city": "Cincinnati",
+    "pop": 257
   },
   {
     "year": 1870,
-    "age": 8,
-    "sex": "New Orleans",
-    "people": 196
+    "rank": 8,
+    "city": "New Orleans",
+    "pop": 196
   },
   {
     "year": 1870,
-    "age": 9,
-    "sex": "Pittsburgh",
-    "people": 170
+    "rank": 9,
+    "city": "Pittsburgh",
+    "pop": 170
   },
   {
     "year": 1870,
-    "age": 10,
-    "sex": "Albany",
-    "people": 157
+    "rank": 10,
+    "city": "Albany",
+    "pop": 157
   },
   {
     "year": 1870,
-    "age": 11,
-    "sex": "San Francisco",
-    "people": 151
+    "rank": 11,
+    "city": "San Francisco",
+    "pop": 151
   },
   {
     "year": 1870,
-    "age": 12,
-    "sex": "Buffalo",
-    "people": 133
+    "rank": 12,
+    "city": "Buffalo",
+    "pop": 133
   },
   {
     "year": 1870,
-    "age": 13,
-    "sex": "Louisville",
-    "people": 129
+    "rank": 13,
+    "city": "Louisville",
+    "pop": 129
   },
   {
     "year": 1870,
-    "age": 14,
-    "sex": "Washington",
-    "people": 123
+    "rank": 14,
+    "city": "Washington",
+    "pop": 123
   },
   {
     "year": 1870,
-    "age": 15,
-    "sex": "Providence",
-    "people": 101
+    "rank": 15,
+    "city": "Providence",
+    "pop": 101
   },
   {
     "year": 1870,
-    "age": 16,
-    "sex": "Detroit",
-    "people": 101
+    "rank": 16,
+    "city": "Detroit",
+    "pop": 101
   },
   {
     "year": 1870,
-    "age": 17,
-    "sex": "Cleveland",
-    "people": 101
+    "rank": 17,
+    "city": "Cleveland",
+    "pop": 101
   },
   {
     "year": 1870,
-    "age": 18,
-    "sex": "Milwaukee",
-    "people": 75
+    "rank": 18,
+    "city": "Milwaukee",
+    "pop": 75
   },
   {
     "year": 1870,
-    "age": 19,
-    "sex": "Rochester",
-    "people": 73
+    "rank": 19,
+    "city": "Rochester",
+    "pop": 73
   },
   {
     "year": 1870,
-    "age": 20,
-    "sex": "New Haven",
-    "people": 65
+    "rank": 20,
+    "city": "New Haven",
+    "pop": 65
   },
   {
     "year": 1880,
-    "age": 1,
-    "sex": "New York",
-    "people": 2234
+    "rank": 1,
+    "city": "New York",
+    "pop": 2234
   },
   {
     "year": 1880,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 949
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 949
   },
   {
     "year": 1880,
-    "age": 3,
-    "sex": "Boston",
-    "people": 658
+    "rank": 3,
+    "city": "Boston",
+    "pop": 658
   },
   {
     "year": 1880,
-    "age": 4,
-    "sex": "Chicago",
-    "people": 543
+    "rank": 4,
+    "city": "Chicago",
+    "pop": 543
   },
   {
     "year": 1880,
-    "age": 5,
-    "sex": "St. Louis",
-    "people": 386
+    "rank": 5,
+    "city": "St. Louis",
+    "pop": 386
   },
   {
     "year": 1880,
-    "age": 6,
-    "sex": "Baltimore",
-    "people": 353
+    "rank": 6,
+    "city": "Baltimore",
+    "pop": 353
   },
   {
     "year": 1880,
-    "age": 7,
-    "sex": "Cincinnati",
-    "people": 307
+    "rank": 7,
+    "city": "Cincinnati",
+    "pop": 307
   },
   {
     "year": 1880,
-    "age": 8,
-    "sex": "Pittsburgh",
-    "people": 265
+    "rank": 8,
+    "city": "Pittsburgh",
+    "pop": 265
   },
   {
     "year": 1880,
-    "age": 9,
-    "sex": "San Francisco",
-    "people": 236
+    "rank": 9,
+    "city": "San Francisco",
+    "pop": 236
   },
   {
     "year": 1880,
-    "age": 10,
-    "sex": "New Orleans",
-    "people": 219
+    "rank": 10,
+    "city": "New Orleans",
+    "pop": 219
   },
   {
     "year": 1880,
-    "age": 11,
-    "sex": "Albany",
-    "people": 178
+    "rank": 11,
+    "city": "Albany",
+    "pop": 178
   },
   {
     "year": 1880,
-    "age": 12,
-    "sex": "Buffalo",
-    "people": 171
+    "rank": 12,
+    "city": "Buffalo",
+    "pop": 171
   },
   {
     "year": 1880,
-    "age": 13,
-    "sex": "Cleveland",
-    "people": 169
+    "rank": 13,
+    "city": "Cleveland",
+    "pop": 169
   },
   {
     "year": 1880,
-    "age": 14,
-    "sex": "Washington",
-    "people": 164
+    "rank": 14,
+    "city": "Washington",
+    "pop": 164
   },
   {
     "year": 1880,
-    "age": 15,
-    "sex": "Detroit",
-    "people": 147
+    "rank": 15,
+    "city": "Detroit",
+    "pop": 147
   },
   {
     "year": 1880,
-    "age": 16,
-    "sex": "Louisville",
-    "people": 143
+    "rank": 16,
+    "city": "Louisville",
+    "pop": 143
   },
   {
     "year": 1880,
-    "age": 17,
-    "sex": "Providence",
-    "people": 128
+    "rank": 17,
+    "city": "Providence",
+    "pop": 128
   },
   {
     "year": 1880,
-    "age": 18,
-    "sex": "Milwaukee",
-    "people": 121
+    "rank": 18,
+    "city": "Milwaukee",
+    "pop": 121
   },
   {
     "year": 1880,
-    "age": 19,
-    "sex": "Rochester",
-    "people": 103
+    "rank": 19,
+    "city": "Rochester",
+    "pop": 103
   },
   {
     "year": 1880,
-    "age": 20,
-    "sex": "Minneapolis",
-    "people": 94
+    "rank": 20,
+    "city": "Minneapolis",
+    "pop": 94
   },
   {
     "year": 1890,
-    "age": 1,
-    "sex": "New York",
-    "people": 2977
+    "rank": 1,
+    "city": "New York",
+    "pop": 2977
   },
   {
     "year": 1890,
-    "age": 2,
-    "sex": "Philadelphia",
-    "people": 1180
+    "rank": 2,
+    "city": "Philadelphia",
+    "pop": 1180
   },
   {
     "year": 1890,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 1141
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 1141
   },
   {
     "year": 1890,
-    "age": 4,
-    "sex": "Boston",
-    "people": 818
+    "rank": 4,
+    "city": "Boston",
+    "pop": 818
   },
   {
     "year": 1890,
-    "age": 5,
-    "sex": "St. Louis",
-    "people": 490
+    "rank": 5,
+    "city": "St. Louis",
+    "pop": 490
   },
   {
     "year": 1890,
-    "age": 6,
-    "sex": "Baltimore",
-    "people": 453
+    "rank": 6,
+    "city": "Baltimore",
+    "pop": 453
   },
   {
     "year": 1890,
-    "age": 7,
-    "sex": "Pittsburgh",
-    "people": 396
+    "rank": 7,
+    "city": "Pittsburgh",
+    "pop": 396
   },
   {
     "year": 1890,
-    "age": 8,
-    "sex": "Cincinnati",
-    "people": 344
+    "rank": 8,
+    "city": "Cincinnati",
+    "pop": 344
   },
   {
     "year": 1890,
-    "age": 9,
-    "sex": "Minneapolis",
-    "people": 305
+    "rank": 9,
+    "city": "Minneapolis",
+    "pop": 305
   },
   {
     "year": 1890,
-    "age": 10,
-    "sex": "San Francisco",
-    "people": 302
+    "rank": 10,
+    "city": "San Francisco",
+    "pop": 302
   },
   {
     "year": 1890,
-    "age": 11,
-    "sex": "Cleveland",
-    "people": 274
+    "rank": 11,
+    "city": "Cleveland",
+    "pop": 274
   },
   {
     "year": 1890,
-    "age": 12,
-    "sex": "Buffalo",
-    "people": 272
+    "rank": 12,
+    "city": "Buffalo",
+    "pop": 272
   },
   {
     "year": 1890,
-    "age": 13,
-    "sex": "Washington",
-    "people": 253
+    "rank": 13,
+    "city": "Washington",
+    "pop": 253
   },
   {
     "year": 1890,
-    "age": 14,
-    "sex": "New Orleans",
-    "people": 245
+    "rank": 14,
+    "city": "New Orleans",
+    "pop": 245
   },
   {
     "year": 1890,
-    "age": 15,
-    "sex": "Detroit",
-    "people": 237
+    "rank": 15,
+    "city": "Detroit",
+    "pop": 237
   },
   {
     "year": 1890,
-    "age": 16,
-    "sex": "Milwaukee",
-    "people": 212
+    "rank": 16,
+    "city": "Milwaukee",
+    "pop": 212
   },
   {
     "year": 1890,
-    "age": 17,
-    "sex": "Albany",
-    "people": 189
+    "rank": 17,
+    "city": "Albany",
+    "pop": 189
   },
   {
     "year": 1890,
-    "age": 18,
-    "sex": "Louisville",
-    "people": 183
+    "rank": 18,
+    "city": "Louisville",
+    "pop": 183
   },
   {
     "year": 1890,
-    "age": 19,
-    "sex": "Kansas City",
-    "people": 165
+    "rank": 19,
+    "city": "Kansas City",
+    "pop": 165
   },
   {
     "year": 1890,
-    "age": 20,
-    "sex": "Providence",
-    "people": 163
+    "rank": 20,
+    "city": "Providence",
+    "pop": 163
   },
   {
     "year": 1900,
-    "age": 1,
-    "sex": "New York",
-    "people": 4266
+    "rank": 1,
+    "city": "New York",
+    "pop": 4266
   },
   {
     "year": 1900,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 1759
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 1759
   },
   {
     "year": 1900,
-    "age": 3,
-    "sex": "Philadelphia",
-    "people": 1454
+    "rank": 3,
+    "city": "Philadelphia",
+    "pop": 1454
   },
   {
     "year": 1900,
-    "age": 4,
-    "sex": "Boston",
-    "people": 1009
+    "rank": 4,
+    "city": "Boston",
+    "pop": 1009
   },
   {
     "year": 1900,
-    "age": 5,
-    "sex": "St. Louis",
-    "people": 626
+    "rank": 5,
+    "city": "St. Louis",
+    "pop": 626
   },
   {
     "year": 1900,
-    "age": 6,
-    "sex": "Pittsburgh",
-    "people": 532
+    "rank": 6,
+    "city": "Pittsburgh",
+    "pop": 532
   },
   {
     "year": 1900,
-    "age": 7,
-    "sex": "Baltimore",
-    "people": 532
+    "rank": 7,
+    "city": "Baltimore",
+    "pop": 532
   },
   {
     "year": 1900,
-    "age": 8,
-    "sex": "Cleveland",
-    "people": 396
+    "rank": 8,
+    "city": "Cleveland",
+    "pop": 396
   },
   {
     "year": 1900,
-    "age": 9,
-    "sex": "Cincinnati",
-    "people": 379
+    "rank": 9,
+    "city": "Cincinnati",
+    "pop": 379
   },
   {
     "year": 1900,
-    "age": 10,
-    "sex": "San Francisco",
-    "people": 375
+    "rank": 10,
+    "city": "San Francisco",
+    "pop": 375
   },
   {
     "year": 1900,
-    "age": 11,
-    "sex": "Minneapolis",
-    "people": 374
+    "rank": 11,
+    "city": "Minneapolis",
+    "pop": 374
   },
   {
     "year": 1900,
-    "age": 12,
-    "sex": "Buffalo",
-    "people": 373
+    "rank": 12,
+    "city": "Buffalo",
+    "pop": 373
   },
   {
     "year": 1900,
-    "age": 13,
-    "sex": "Detroit",
-    "people": 321
+    "rank": 13,
+    "city": "Detroit",
+    "pop": 321
   },
   {
     "year": 1900,
-    "age": 14,
-    "sex": "Washington",
-    "people": 302
+    "rank": 14,
+    "city": "Washington",
+    "pop": 302
   },
   {
     "year": 1900,
-    "age": 15,
-    "sex": "Milwaukee",
-    "people": 296
+    "rank": 15,
+    "city": "Milwaukee",
+    "pop": 296
   },
   {
     "year": 1900,
-    "age": 16,
-    "sex": "New Orleans",
-    "people": 291
+    "rank": 16,
+    "city": "New Orleans",
+    "pop": 291
   },
   {
     "year": 1900,
-    "age": 17,
-    "sex": "Providence",
-    "people": 243
+    "rank": 17,
+    "city": "Providence",
+    "pop": 243
   },
   {
     "year": 1900,
-    "age": 18,
-    "sex": "Kansas City",
-    "people": 242
+    "rank": 18,
+    "city": "Kansas City",
+    "pop": 242
   },
   {
     "year": 1900,
-    "age": 19,
-    "sex": "Louisville",
-    "people": 227
+    "rank": 19,
+    "city": "Louisville",
+    "pop": 227
   },
   {
     "year": 1900,
-    "age": 20,
-    "sex": "Albany",
-    "people": 188
+    "rank": 20,
+    "city": "Albany",
+    "pop": 188
   },
   {
     "year": 1910,
-    "age": 1,
-    "sex": "New York",
-    "people": 6021
+    "rank": 1,
+    "city": "New York",
+    "pop": 6021
   },
   {
     "year": 1910,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 2283
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 2283
   },
   {
     "year": 1910,
-    "age": 3,
-    "sex": "Philadelphia",
-    "people": 1746
+    "rank": 3,
+    "city": "Philadelphia",
+    "pop": 1746
   },
   {
     "year": 1910,
-    "age": 4,
-    "sex": "Boston",
-    "people": 1213
+    "rank": 4,
+    "city": "Boston",
+    "pop": 1213
   },
   {
     "year": 1910,
-    "age": 5,
-    "sex": "St. Louis",
-    "people": 760
+    "rank": 5,
+    "city": "St. Louis",
+    "pop": 760
   },
   {
     "year": 1910,
-    "age": 6,
-    "sex": "Pittsburgh",
-    "people": 655
+    "rank": 6,
+    "city": "Pittsburgh",
+    "pop": 655
   },
   {
     "year": 1910,
-    "age": 7,
-    "sex": "San Francisco",
-    "people": 604
+    "rank": 7,
+    "city": "San Francisco",
+    "pop": 604
   },
   {
     "year": 1910,
-    "age": 8,
-    "sex": "Baltimore",
-    "people": 589
+    "rank": 8,
+    "city": "Baltimore",
+    "pop": 589
   },
   {
     "year": 1910,
-    "age": 9,
-    "sex": "Cleveland",
-    "people": 580
+    "rank": 9,
+    "city": "Cleveland",
+    "pop": 580
   },
   {
     "year": 1910,
-    "age": 10,
-    "sex": "Minneapolis",
-    "people": 526
+    "rank": 10,
+    "city": "Minneapolis",
+    "pop": 526
   },
   {
     "year": 1910,
-    "age": 11,
-    "sex": "Detroit",
-    "people": 503
+    "rank": 11,
+    "city": "Detroit",
+    "pop": 503
   },
   {
     "year": 1910,
-    "age": 12,
-    "sex": "Cincinnati",
-    "people": 425
+    "rank": 12,
+    "city": "Cincinnati",
+    "pop": 425
   },
   {
     "year": 1910,
-    "age": 13,
-    "sex": "Buffalo",
-    "people": 420
+    "rank": 13,
+    "city": "Buffalo",
+    "pop": 420
   },
   {
     "year": 1910,
-    "age": 14,
-    "sex": "Milwaukee",
-    "people": 389
+    "rank": 14,
+    "city": "Milwaukee",
+    "pop": 389
   },
   {
     "year": 1910,
-    "age": 15,
-    "sex": "Los Angeles",
-    "people": 374
+    "rank": 15,
+    "city": "Los Angeles",
+    "pop": 374
   },
   {
     "year": 1910,
-    "age": 16,
-    "sex": "Kansas City",
-    "people": 357
+    "rank": 16,
+    "city": "Kansas City",
+    "pop": 357
   },
   {
     "year": 1910,
-    "age": 17,
-    "sex": "Washington",
-    "people": 357
+    "rank": 17,
+    "city": "Washington",
+    "pop": 357
   },
   {
     "year": 1910,
-    "age": 18,
-    "sex": "New Orleans",
-    "people": 344
+    "rank": 18,
+    "city": "New Orleans",
+    "pop": 344
   },
   {
     "year": 1910,
-    "age": 19,
-    "sex": "Albany",
-    "people": 283
+    "rank": 19,
+    "city": "Albany",
+    "pop": 283
   },
   {
     "year": 1910,
-    "age": 20,
-    "sex": "Providence",
-    "people": 274
+    "rank": 20,
+    "city": "Providence",
+    "pop": 274
   },
   {
     "year": 1920,
-    "age": 1,
-    "sex": "New York",
-    "people": 7041
+    "rank": 1,
+    "city": "New York",
+    "pop": 7041
   },
   {
     "year": 1920,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 2859
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 2859
   },
   {
     "year": 1920,
-    "age": 3,
-    "sex": "Philadelphia",
-    "people": 2072
+    "rank": 3,
+    "city": "Philadelphia",
+    "pop": 2072
   },
   {
     "year": 1920,
-    "age": 4,
-    "sex": "Boston",
-    "people": 1366
+    "rank": 4,
+    "city": "Boston",
+    "pop": 1366
   },
   {
     "year": 1920,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 1071
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 1071
   },
   {
     "year": 1920,
-    "age": 6,
-    "sex": "St. Louis",
-    "people": 859
+    "rank": 6,
+    "city": "St. Louis",
+    "pop": 859
   },
   {
     "year": 1920,
-    "age": 7,
-    "sex": "Cleveland",
-    "people": 834
+    "rank": 7,
+    "city": "Cleveland",
+    "pop": 834
   },
   {
     "year": 1920,
-    "age": 8,
-    "sex": "Pittsburgh",
-    "people": 775
+    "rank": 8,
+    "city": "Pittsburgh",
+    "pop": 775
   },
   {
     "year": 1920,
-    "age": 9,
-    "sex": "San Francisco",
-    "people": 771
+    "rank": 9,
+    "city": "San Francisco",
+    "pop": 771
   },
   {
     "year": 1920,
-    "age": 10,
-    "sex": "Baltimore",
-    "people": 753
+    "rank": 10,
+    "city": "Baltimore",
+    "pop": 753
   },
   {
     "year": 1920,
-    "age": 11,
-    "sex": "Los Angeles",
-    "people": 682
+    "rank": 11,
+    "city": "Los Angeles",
+    "pop": 682
   },
   {
     "year": 1920,
-    "age": 12,
-    "sex": "Minneapolis",
-    "people": 626
+    "rank": 12,
+    "city": "Minneapolis",
+    "pop": 626
   },
   {
     "year": 1920,
-    "age": 13,
-    "sex": "Buffalo",
-    "people": 539
+    "rank": 13,
+    "city": "Buffalo",
+    "pop": 539
   },
   {
     "year": 1920,
-    "age": 14,
-    "sex": "Milwaukee",
-    "people": 478
+    "rank": 14,
+    "city": "Milwaukee",
+    "pop": 478
   },
   {
     "year": 1920,
-    "age": 15,
-    "sex": "Cincinnati",
-    "people": 470
+    "rank": 15,
+    "city": "Cincinnati",
+    "pop": 470
   },
   {
     "year": 1920,
-    "age": 16,
-    "sex": "Washington",
-    "people": 467
+    "rank": 16,
+    "city": "Washington",
+    "pop": 467
   },
   {
     "year": 1920,
-    "age": 17,
-    "sex": "Kansas City",
-    "people": 455
+    "rank": 17,
+    "city": "Kansas City",
+    "pop": 455
   },
   {
     "year": 1920,
-    "age": 18,
-    "sex": "New Orleans",
-    "people": 393
+    "rank": 18,
+    "city": "New Orleans",
+    "pop": 393
   },
   {
     "year": 1920,
-    "age": 19,
-    "sex": "Seattle",
-    "people": 334
+    "rank": 19,
+    "city": "Seattle",
+    "pop": 334
   },
   {
     "year": 1920,
-    "age": 20,
-    "sex": "Indianapolis",
-    "people": 323
+    "rank": 20,
+    "city": "Indianapolis",
+    "pop": 323
   },
   {
     "year": 1930,
-    "age": 1,
-    "sex": "New York",
-    "people": 8667
+    "rank": 1,
+    "city": "New York",
+    "pop": 8667
   },
   {
     "year": 1930,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 3718
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 3718
   },
   {
     "year": 1930,
-    "age": 3,
-    "sex": "Philadelphia",
-    "people": 2264
+    "rank": 3,
+    "city": "Philadelphia",
+    "pop": 2264
   },
   {
     "year": 1930,
-    "age": 4,
-    "sex": "Detroit",
-    "people": 1721
+    "rank": 4,
+    "city": "Detroit",
+    "pop": 1721
   },
   {
     "year": 1930,
-    "age": 5,
-    "sex": "Los Angeles",
-    "people": 1617
+    "rank": 5,
+    "city": "Los Angeles",
+    "pop": 1617
   },
   {
     "year": 1930,
-    "age": 6,
-    "sex": "Boston",
-    "people": 1479
+    "rank": 6,
+    "city": "Boston",
+    "pop": 1479
   },
   {
     "year": 1930,
-    "age": 7,
-    "sex": "San Francisco",
-    "people": 996
+    "rank": 7,
+    "city": "San Francisco",
+    "pop": 996
   },
   {
     "year": 1930,
-    "age": 8,
-    "sex": "Cleveland",
-    "people": 976
+    "rank": 8,
+    "city": "Cleveland",
+    "pop": 976
   },
   {
     "year": 1930,
-    "age": 9,
-    "sex": "Pittsburgh",
-    "people": 960
+    "rank": 9,
+    "city": "Pittsburgh",
+    "pop": 960
   },
   {
     "year": 1930,
-    "age": 10,
-    "sex": "St. Louis",
-    "people": 950
+    "rank": 10,
+    "city": "St. Louis",
+    "pop": 950
   },
   {
     "year": 1930,
-    "age": 11,
-    "sex": "Baltimore",
-    "people": 836
+    "rank": 11,
+    "city": "Baltimore",
+    "pop": 836
   },
   {
     "year": 1930,
-    "age": 12,
-    "sex": "Minneapolis",
-    "people": 753
+    "rank": 12,
+    "city": "Minneapolis",
+    "pop": 753
   },
   {
     "year": 1930,
-    "age": 13,
-    "sex": "Buffalo",
-    "people": 620
+    "rank": 13,
+    "city": "Buffalo",
+    "pop": 620
   },
   {
     "year": 1930,
-    "age": 14,
-    "sex": "Milwaukee",
-    "people": 615
+    "rank": 14,
+    "city": "Milwaukee",
+    "pop": 615
   },
   {
     "year": 1930,
-    "age": 15,
-    "sex": "Cincinnati",
-    "people": 580
+    "rank": 15,
+    "city": "Cincinnati",
+    "pop": 580
   },
   {
     "year": 1930,
-    "age": 16,
-    "sex": "Kansas City",
-    "people": 561
+    "rank": 16,
+    "city": "Kansas City",
+    "pop": 561
   },
   {
     "year": 1930,
-    "age": 17,
-    "sex": "Washington",
-    "people": 527
+    "rank": 17,
+    "city": "Washington",
+    "pop": 527
   },
   {
     "year": 1930,
-    "age": 18,
-    "sex": "New Orleans",
-    "people": 469
+    "rank": 18,
+    "city": "New Orleans",
+    "pop": 469
   },
   {
     "year": 1930,
-    "age": 19,
-    "sex": "Seattle",
-    "people": 390
+    "rank": 19,
+    "city": "Seattle",
+    "pop": 390
   },
   {
     "year": 1930,
-    "age": 20,
-    "sex": "Indianapolis",
-    "people": 379
+    "rank": 20,
+    "city": "Indianapolis",
+    "pop": 379
   },
   {
     "year": 1940,
-    "age": 1,
-    "sex": "New York",
-    "people": 10135
+    "rank": 1,
+    "city": "New York",
+    "pop": 10135
   },
   {
     "year": 1940,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 4210
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 4210
   },
   {
     "year": 1940,
-    "age": 3,
-    "sex": "Philadelphia",
-    "people": 2538
+    "rank": 3,
+    "city": "Philadelphia",
+    "pop": 2538
   },
   {
     "year": 1940,
-    "age": 4,
-    "sex": "Los Angeles",
-    "people": 2268
+    "rank": 4,
+    "city": "Los Angeles",
+    "pop": 2268
   },
   {
     "year": 1940,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 2041
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 2041
   },
   {
     "year": 1940,
-    "age": 6,
-    "sex": "Boston",
-    "people": 1746
+    "rank": 6,
+    "city": "Boston",
+    "pop": 1746
   },
   {
     "year": 1940,
-    "age": 7,
-    "sex": "San Francisco",
-    "people": 1156
+    "rank": 7,
+    "city": "San Francisco",
+    "pop": 1156
   },
   {
     "year": 1940,
-    "age": 8,
-    "sex": "Pittsburgh",
-    "people": 1134
+    "rank": 8,
+    "city": "Pittsburgh",
+    "pop": 1134
   },
   {
     "year": 1940,
-    "age": 9,
-    "sex": "St. Louis",
-    "people": 1102
+    "rank": 9,
+    "city": "St. Louis",
+    "pop": 1102
   },
   {
     "year": 1940,
-    "age": 10,
-    "sex": "Cleveland",
-    "people": 1079
+    "rank": 10,
+    "city": "Cleveland",
+    "pop": 1079
   },
   {
     "year": 1940,
-    "age": 11,
-    "sex": "Baltimore",
-    "people": 992
+    "rank": 11,
+    "city": "Baltimore",
+    "pop": 992
   },
   {
     "year": 1940,
-    "age": 12,
-    "sex": "Minneapolis",
-    "people": 886
+    "rank": 12,
+    "city": "Minneapolis",
+    "pop": 886
   },
   {
     "year": 1940,
-    "age": 13,
-    "sex": "Washington",
-    "people": 800
+    "rank": 13,
+    "city": "Washington",
+    "pop": 800
   },
   {
     "year": 1940,
-    "age": 14,
-    "sex": "Buffalo",
-    "people": 708
+    "rank": 14,
+    "city": "Buffalo",
+    "pop": 708
   },
   {
     "year": 1940,
-    "age": 15,
-    "sex": "Milwaukee",
-    "people": 705
+    "rank": 15,
+    "city": "Milwaukee",
+    "pop": 705
   },
   {
     "year": 1940,
-    "age": 16,
-    "sex": "Kansas City",
-    "people": 632
+    "rank": 16,
+    "city": "Kansas City",
+    "pop": 632
   },
   {
     "year": 1940,
-    "age": 17,
-    "sex": "Cincinnati",
-    "people": 559
+    "rank": 17,
+    "city": "Cincinnati",
+    "pop": 559
   },
   {
     "year": 1940,
-    "age": 18,
-    "sex": "New Orleans",
-    "people": 557
+    "rank": 18,
+    "city": "New Orleans",
+    "pop": 557
   },
   {
     "year": 1940,
-    "age": 19,
-    "sex": "Houston",
-    "people": 471
+    "rank": 19,
+    "city": "Houston",
+    "pop": 471
   },
   {
     "year": 1940,
-    "age": 20,
-    "sex": "Seattle",
-    "people": 451
+    "rank": 20,
+    "city": "Seattle",
+    "pop": 451
   },
   {
     "year": 1950,
-    "age": 1,
-    "sex": "New York",
-    "people": 12604
+    "rank": 1,
+    "city": "New York",
+    "pop": 12604
   },
   {
     "year": 1950,
-    "age": 2,
-    "sex": "Chicago",
-    "people": 5208
+    "rank": 2,
+    "city": "Chicago",
+    "pop": 5208
   },
   {
     "year": 1950,
-    "age": 3,
-    "sex": "Los Angeles",
-    "people": 4250
+    "rank": 3,
+    "city": "Los Angeles",
+    "pop": 4250
   },
   {
     "year": 1950,
-    "age": 4,
-    "sex": "Philadelphia",
-    "people": 3297
+    "rank": 4,
+    "city": "Philadelphia",
+    "pop": 3297
   },
   {
     "year": 1950,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 2884
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 2884
   },
   {
     "year": 1950,
-    "age": 6,
-    "sex": "Boston",
-    "people": 2301
+    "rank": 6,
+    "city": "Boston",
+    "pop": 2301
   },
   {
     "year": 1950,
-    "age": 7,
-    "sex": "San Francisco",
-    "people": 2131
+    "rank": 7,
+    "city": "San Francisco",
+    "pop": 2131
   },
   {
     "year": 1950,
-    "age": 8,
-    "sex": "St. Louis",
-    "people": 1541
+    "rank": 8,
+    "city": "St. Louis",
+    "pop": 1541
   },
   {
     "year": 1950,
-    "age": 9,
-    "sex": "Cleveland",
-    "people": 1425
+    "rank": 9,
+    "city": "Cleveland",
+    "pop": 1425
   },
   {
     "year": 1950,
-    "age": 10,
-    "sex": "Pittsburgh",
-    "people": 1400
+    "rank": 10,
+    "city": "Pittsburgh",
+    "pop": 1400
   },
   {
     "year": 1950,
-    "age": 11,
-    "sex": "Washington",
-    "people": 1287
+    "rank": 11,
+    "city": "Washington",
+    "pop": 1287
   },
   {
     "year": 1950,
-    "age": 12,
-    "sex": "Baltimore",
-    "people": 1162
+    "rank": 12,
+    "city": "Baltimore",
+    "pop": 1162
   },
   {
     "year": 1950,
-    "age": 13,
-    "sex": "Minneapolis",
-    "people": 987
+    "rank": 13,
+    "city": "Minneapolis",
+    "pop": 987
   },
   {
     "year": 1950,
-    "age": 14,
-    "sex": "Buffalo",
-    "people": 895
+    "rank": 14,
+    "city": "Buffalo",
+    "pop": 895
   },
   {
     "year": 1950,
-    "age": 15,
-    "sex": "Dallas",
-    "people": 855
+    "rank": 15,
+    "city": "Dallas",
+    "pop": 855
   },
   {
     "year": 1950,
-    "age": 16,
-    "sex": "Milwaukee",
-    "people": 829
+    "rank": 16,
+    "city": "Milwaukee",
+    "pop": 829
   },
   {
     "year": 1950,
-    "age": 17,
-    "sex": "Cincinnati",
-    "people": 813
+    "rank": 17,
+    "city": "Cincinnati",
+    "pop": 813
   },
   {
     "year": 1950,
-    "age": 18,
-    "sex": "Houston",
-    "people": 701
+    "rank": 18,
+    "city": "Houston",
+    "pop": 701
   },
   {
     "year": 1950,
-    "age": 19,
-    "sex": "Kansas City",
-    "people": 698
+    "rank": 19,
+    "city": "Kansas City",
+    "pop": 698
   },
   {
     "year": 1950,
-    "age": 20,
-    "sex": "New Orleans",
-    "people": 660
+    "rank": 20,
+    "city": "New Orleans",
+    "pop": 660
   },
   {
     "year": 1960,
-    "age": 1,
-    "sex": "New York",
-    "people": 14437
+    "rank": 1,
+    "city": "New York",
+    "pop": 14437
   },
   {
     "year": 1960,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 6805
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 6805
   },
   {
     "year": 1960,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 6377
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 6377
   },
   {
     "year": 1960,
-    "age": 4,
-    "sex": "Philadelphia",
-    "people": 3989
+    "rank": 4,
+    "city": "Philadelphia",
+    "pop": 3989
   },
   {
     "year": 1960,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 3750
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 3750
   },
   {
     "year": 1960,
-    "age": 6,
-    "sex": "San Francisco",
-    "people": 2607
+    "rank": 6,
+    "city": "San Francisco",
+    "pop": 2607
   },
   {
     "year": 1960,
-    "age": 7,
-    "sex": "Boston",
-    "people": 2501
+    "rank": 7,
+    "city": "Boston",
+    "pop": 2501
   },
   {
     "year": 1960,
-    "age": 8,
-    "sex": "Pittsburgh",
-    "people": 2105
+    "rank": 8,
+    "city": "Pittsburgh",
+    "pop": 2105
   },
   {
     "year": 1960,
-    "age": 9,
-    "sex": "Washington",
-    "people": 1905
+    "rank": 9,
+    "city": "Washington",
+    "pop": 1905
   },
   {
     "year": 1960,
-    "age": 10,
-    "sex": "St. Louis",
-    "people": 1864
+    "rank": 10,
+    "city": "St. Louis",
+    "pop": 1864
   },
   {
     "year": 1960,
-    "age": 11,
-    "sex": "Cleveland",
-    "people": 1785
+    "rank": 11,
+    "city": "Cleveland",
+    "pop": 1785
   },
   {
     "year": 1960,
-    "age": 12,
-    "sex": "Dallas",
-    "people": 1435
+    "rank": 12,
+    "city": "Dallas",
+    "pop": 1435
   },
   {
     "year": 1960,
-    "age": 13,
-    "sex": "Baltimore",
-    "people": 1419
+    "rank": 13,
+    "city": "Baltimore",
+    "pop": 1419
   },
   {
     "year": 1960,
-    "age": 14,
-    "sex": "Minneapolis",
-    "people": 1377
+    "rank": 14,
+    "city": "Minneapolis",
+    "pop": 1377
   },
   {
     "year": 1960,
-    "age": 15,
-    "sex": "Miami",
-    "people": 1173
+    "rank": 15,
+    "city": "Miami",
+    "pop": 1173
   },
   {
     "year": 1960,
-    "age": 16,
-    "sex": "Milwaukee",
-    "people": 1150
+    "rank": 16,
+    "city": "Milwaukee",
+    "pop": 1150
   },
   {
     "year": 1960,
-    "age": 17,
-    "sex": "Houston",
-    "people": 1140
+    "rank": 17,
+    "city": "Houston",
+    "pop": 1140
   },
   {
     "year": 1960,
-    "age": 18,
-    "sex": "Buffalo",
-    "people": 1054
+    "rank": 18,
+    "city": "Buffalo",
+    "pop": 1054
   },
   {
     "year": 1960,
-    "age": 19,
-    "sex": "Cincinnati",
-    "people": 994
+    "rank": 19,
+    "city": "Cincinnati",
+    "pop": 994
   },
   {
     "year": 1960,
-    "age": 20,
-    "sex": "Kansas City",
-    "people": 921
+    "rank": 20,
+    "city": "Kansas City",
+    "pop": 921
   },
   {
     "year": 1970,
-    "age": 1,
-    "sex": "New York",
-    "people": 16193
+    "rank": 1,
+    "city": "New York",
+    "pop": 16193
   },
   {
     "year": 1970,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 7984
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 7984
   },
   {
     "year": 1970,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 7164
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 7164
   },
   {
     "year": 1970,
-    "age": 4,
-    "sex": "Philadelphia",
-    "people": 4419
+    "rank": 4,
+    "city": "Philadelphia",
+    "pop": 4419
   },
   {
     "year": 1970,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 4085
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 4085
   },
   {
     "year": 1970,
-    "age": 6,
-    "sex": "San Francisco",
-    "people": 3049
+    "rank": 6,
+    "city": "San Francisco",
+    "pop": 3049
   },
   {
     "year": 1970,
-    "age": 7,
-    "sex": "Boston",
-    "people": 2703
+    "rank": 7,
+    "city": "Boston",
+    "pop": 2703
   },
   {
     "year": 1970,
-    "age": 8,
-    "sex": "Washington",
-    "people": 2671
+    "rank": 8,
+    "city": "Washington",
+    "pop": 2671
   },
   {
     "year": 1970,
-    "age": 9,
-    "sex": "Pittsburgh",
-    "people": 2124
+    "rank": 9,
+    "city": "Pittsburgh",
+    "pop": 2124
   },
   {
     "year": 1970,
-    "age": 10,
-    "sex": "St. Louis",
-    "people": 2123
+    "rank": 10,
+    "city": "St. Louis",
+    "pop": 2123
   },
   {
     "year": 1970,
-    "age": 11,
-    "sex": "Dallas",
-    "people": 2016
+    "rank": 11,
+    "city": "Dallas",
+    "pop": 2016
   },
   {
     "year": 1970,
-    "age": 12,
-    "sex": "Cleveland",
-    "people": 1960
+    "rank": 12,
+    "city": "Cleveland",
+    "pop": 1960
   },
   {
     "year": 1970,
-    "age": 13,
-    "sex": "Miami",
-    "people": 1834
+    "rank": 13,
+    "city": "Miami",
+    "pop": 1834
   },
   {
     "year": 1970,
-    "age": 14,
-    "sex": "Minneapolis",
-    "people": 1701
+    "rank": 14,
+    "city": "Minneapolis",
+    "pop": 1701
   },
   {
     "year": 1970,
-    "age": 15,
-    "sex": "Houston",
-    "people": 1678
+    "rank": 15,
+    "city": "Houston",
+    "pop": 1678
   },
   {
     "year": 1970,
-    "age": 16,
-    "sex": "Baltimore",
-    "people": 1580
+    "rank": 16,
+    "city": "Baltimore",
+    "pop": 1580
   },
   {
     "year": 1970,
-    "age": 17,
-    "sex": "Milwaukee",
-    "people": 1252
+    "rank": 17,
+    "city": "Milwaukee",
+    "pop": 1252
   },
   {
     "year": 1970,
-    "age": 18,
-    "sex": "Seattle",
-    "people": 1238
+    "rank": 18,
+    "city": "Seattle",
+    "pop": 1238
   },
   {
     "year": 1970,
-    "age": 19,
-    "sex": "San Diego",
-    "people": 1198
+    "rank": 19,
+    "city": "San Diego",
+    "pop": 1198
   },
   {
     "year": 1970,
-    "age": 20,
-    "sex": "Atlanta",
-    "people": 1172
+    "rank": 20,
+    "city": "Atlanta",
+    "pop": 1172
   },
   {
     "year": 1980,
-    "age": 1,
-    "sex": "New York",
-    "people": 16500
+    "rank": 1,
+    "city": "New York",
+    "pop": 16500
   },
   {
     "year": 1980,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 10841
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 10841
   },
   {
     "year": 1980,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 7325
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 7325
   },
   {
     "year": 1980,
-    "age": 4,
-    "sex": "Philadelphia",
-    "people": 4830
+    "rank": 4,
+    "city": "Philadelphia",
+    "pop": 4830
   },
   {
     "year": 1980,
-    "age": 5,
-    "sex": "Detroit",
-    "people": 4214
+    "rank": 5,
+    "city": "Detroit",
+    "pop": 4214
   },
   {
     "year": 1980,
-    "age": 6,
-    "sex": "San Francisco",
-    "people": 4185
+    "rank": 6,
+    "city": "San Francisco",
+    "pop": 4185
   },
   {
     "year": 1980,
-    "age": 7,
-    "sex": "Boston",
-    "people": 3064
+    "rank": 7,
+    "city": "Boston",
+    "pop": 3064
   },
   {
     "year": 1980,
-    "age": 8,
-    "sex": "Washington",
-    "people": 2912
+    "rank": 8,
+    "city": "Washington",
+    "pop": 2912
   },
   {
     "year": 1980,
-    "age": 9,
-    "sex": "Houston",
-    "people": 2757
+    "rank": 9,
+    "city": "Houston",
+    "pop": 2757
   },
   {
     "year": 1980,
-    "age": 10,
-    "sex": "Dallas",
-    "people": 2713
+    "rank": 10,
+    "city": "Dallas",
+    "pop": 2713
   },
   {
     "year": 1980,
-    "age": 11,
-    "sex": "Miami",
-    "people": 2616
+    "rank": 11,
+    "city": "Miami",
+    "pop": 2616
   },
   {
     "year": 1980,
-    "age": 12,
-    "sex": "St. Louis",
-    "people": 1849
+    "rank": 12,
+    "city": "St. Louis",
+    "pop": 1849
   },
   {
     "year": 1980,
-    "age": 13,
-    "sex": "Pittsburgh",
-    "people": 1810
+    "rank": 13,
+    "city": "Pittsburgh",
+    "pop": 1810
   },
   {
     "year": 1980,
-    "age": 14,
-    "sex": "Minneapolis",
-    "people": 1788
+    "rank": 14,
+    "city": "Minneapolis",
+    "pop": 1788
   },
   {
     "year": 1980,
-    "age": 15,
-    "sex": "Baltimore",
-    "people": 1755
+    "rank": 15,
+    "city": "Baltimore",
+    "pop": 1755
   },
   {
     "year": 1980,
-    "age": 16,
-    "sex": "Cleveland",
-    "people": 1752
+    "rank": 16,
+    "city": "Cleveland",
+    "pop": 1752
   },
   {
     "year": 1980,
-    "age": 17,
-    "sex": "San Diego",
-    "people": 1704
+    "rank": 17,
+    "city": "San Diego",
+    "pop": 1704
   },
   {
     "year": 1980,
-    "age": 18,
-    "sex": "Atlanta",
-    "people": 1613
+    "rank": 18,
+    "city": "Atlanta",
+    "pop": 1613
   },
   {
     "year": 1980,
-    "age": 19,
-    "sex": "Phoenix",
-    "people": 1409
+    "rank": 19,
+    "city": "Phoenix",
+    "pop": 1409
   },
   {
     "year": 1980,
-    "age": 20,
-    "sex": "Seattle",
-    "people": 1392
+    "rank": 20,
+    "city": "Seattle",
+    "pop": 1392
   },
   {
     "year": 1990,
-    "age": 1,
-    "sex": "New York",
-    "people": 16754
+    "rank": 1,
+    "city": "New York",
+    "pop": 16754
   },
   {
     "year": 1990,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 13522
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 13522
   },
   {
     "year": 1990,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 7373
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 7373
   },
   {
     "year": 1990,
-    "age": 4,
-    "sex": "San Francisco",
-    "people": 5386
+    "rank": 4,
+    "city": "San Francisco",
+    "pop": 5386
   },
   {
     "year": 1990,
-    "age": 5,
-    "sex": "Philadelphia",
-    "people": 4970
+    "rank": 5,
+    "city": "Philadelphia",
+    "pop": 4970
   },
   {
     "year": 1990,
-    "age": 6,
-    "sex": "Miami",
-    "people": 3948
+    "rank": 6,
+    "city": "Miami",
+    "pop": 3948
   },
   {
     "year": 1990,
-    "age": 7,
-    "sex": "Detroit",
-    "people": 3698
+    "rank": 7,
+    "city": "Detroit",
+    "pop": 3698
   },
   {
     "year": 1990,
-    "age": 8,
-    "sex": "Washington",
-    "people": 3363
+    "rank": 8,
+    "city": "Washington",
+    "pop": 3363
   },
   {
     "year": 1990,
-    "age": 9,
-    "sex": "Boston",
-    "people": 3355
+    "rank": 9,
+    "city": "Boston",
+    "pop": 3355
   },
   {
     "year": 1990,
-    "age": 10,
-    "sex": "Dallas",
-    "people": 3265
+    "rank": 10,
+    "city": "Dallas",
+    "pop": 3265
   },
   {
     "year": 1990,
-    "age": 11,
-    "sex": "Houston",
-    "people": 3088
+    "rank": 11,
+    "city": "Houston",
+    "pop": 3088
   },
   {
     "year": 1990,
-    "age": 12,
-    "sex": "Seattle",
-    "people": 2354
+    "rank": 12,
+    "city": "Seattle",
+    "pop": 2354
   },
   {
     "year": 1990,
-    "age": 13,
-    "sex": "San Diego",
-    "people": 2348
+    "rank": 13,
+    "city": "San Diego",
+    "pop": 2348
   },
   {
     "year": 1990,
-    "age": 14,
-    "sex": "Atlanta",
-    "people": 2158
+    "rank": 14,
+    "city": "Atlanta",
+    "pop": 2158
   },
   {
     "year": 1990,
-    "age": 15,
-    "sex": "Minneapolis",
-    "people": 2080
+    "rank": 15,
+    "city": "Minneapolis",
+    "pop": 2080
   },
   {
     "year": 1990,
-    "age": 16,
-    "sex": "Phoenix",
-    "people": 2006
+    "rank": 16,
+    "city": "Phoenix",
+    "pop": 2006
   },
   {
     "year": 1990,
-    "age": 17,
-    "sex": "St. Louis",
-    "people": 1947
+    "rank": 17,
+    "city": "St. Louis",
+    "pop": 1947
   },
   {
     "year": 1990,
-    "age": 18,
-    "sex": "Baltimore",
-    "people": 1890
+    "rank": 18,
+    "city": "Baltimore",
+    "pop": 1890
   },
   {
     "year": 1990,
-    "age": 19,
-    "sex": "Pittsburgh",
-    "people": 1744
+    "rank": 19,
+    "city": "Pittsburgh",
+    "pop": 1744
   },
   {
     "year": 1990,
-    "age": 20,
-    "sex": "Tampa",
-    "people": 1709
+    "rank": 20,
+    "city": "Tampa",
+    "pop": 1709
   },
   {
     "year": 2000,
-    "age": 1,
-    "sex": "New York",
-    "people": 18689
+    "rank": 1,
+    "city": "New York",
+    "pop": 18689
   },
   {
     "year": 2000,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 14661
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 14661
   },
   {
     "year": 2000,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 8419
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 8419
   },
   {
     "year": 2000,
-    "age": 4,
-    "sex": "San Francisco",
-    "people": 5973
+    "rank": 4,
+    "city": "San Francisco",
+    "pop": 5973
   },
   {
     "year": 2000,
-    "age": 5,
-    "sex": "Philadelphia",
-    "people": 5418
+    "rank": 5,
+    "city": "Philadelphia",
+    "pop": 5418
   },
   {
     "year": 2000,
-    "age": 6,
-    "sex": "Miami",
-    "people": 4919
+    "rank": 6,
+    "city": "Miami",
+    "pop": 4919
   },
   {
     "year": 2000,
-    "age": 7,
-    "sex": "Dallas",
-    "people": 4445
+    "rank": 7,
+    "city": "Dallas",
+    "pop": 4445
   },
   {
     "year": 2000,
-    "age": 8,
-    "sex": "Houston",
-    "people": 4063
+    "rank": 8,
+    "city": "Houston",
+    "pop": 4063
   },
   {
     "year": 2000,
-    "age": 9,
-    "sex": "Boston",
-    "people": 4032
+    "rank": 9,
+    "city": "Boston",
+    "pop": 4032
   },
   {
     "year": 2000,
-    "age": 10,
-    "sex": "Washington",
-    "people": 3934
+    "rank": 10,
+    "city": "Washington",
+    "pop": 3934
   },
   {
     "year": 2000,
-    "age": 11,
-    "sex": "Detroit",
-    "people": 3903
+    "rank": 11,
+    "city": "Detroit",
+    "pop": 3903
   },
   {
     "year": 2000,
-    "age": 12,
-    "sex": "Atlanta",
-    "people": 3500
+    "rank": 12,
+    "city": "Atlanta",
+    "pop": 3500
   },
   {
     "year": 2000,
-    "age": 13,
-    "sex": "Seattle",
-    "people": 3018
+    "rank": 13,
+    "city": "Seattle",
+    "pop": 3018
   },
   {
     "year": 2000,
-    "age": 14,
-    "sex": "Phoenix",
-    "people": 2975
+    "rank": 14,
+    "city": "Phoenix",
+    "pop": 2975
   },
   {
     "year": 2000,
-    "age": 15,
-    "sex": "San Diego",
-    "people": 2674
+    "rank": 15,
+    "city": "San Diego",
+    "pop": 2674
   },
   {
     "year": 2000,
-    "age": 16,
-    "sex": "Minneapolis",
-    "people": 2389
+    "rank": 16,
+    "city": "Minneapolis",
+    "pop": 2389
   },
   {
     "year": 2000,
-    "age": 17,
-    "sex": "Baltimore",
-    "people": 2251
+    "rank": 17,
+    "city": "Baltimore",
+    "pop": 2251
   },
   {
     "year": 2000,
-    "age": 18,
-    "sex": "Denver",
-    "people": 2231
+    "rank": 18,
+    "city": "Denver",
+    "pop": 2231
   },
   {
     "year": 2000,
-    "age": 19,
-    "sex": "St. Louis",
-    "people": 2078
+    "rank": 19,
+    "city": "St. Louis",
+    "pop": 2078
   },
   {
     "year": 2000,
-    "age": 20,
-    "sex": "Tampa",
-    "people": 2062
+    "rank": 20,
+    "city": "Tampa",
+    "pop": 2062
   },
   {
     "year": 2010,
-    "age": 1,
-    "sex": "New York",
-    "people": 20009
+    "rank": 1,
+    "city": "New York",
+    "pop": 20009
   },
   {
     "year": 2010,
-    "age": 2,
-    "sex": "Los Angeles",
-    "people": 15750
+    "rank": 2,
+    "city": "Los Angeles",
+    "pop": 15750
   },
   {
     "year": 2010,
-    "age": 3,
-    "sex": "Chicago",
-    "people": 9023
+    "rank": 3,
+    "city": "Chicago",
+    "pop": 9023
   },
   {
     "year": 2010,
-    "age": 4,
-    "sex": "San Francisco",
-    "people": 6828
+    "rank": 4,
+    "city": "San Francisco",
+    "pop": 6828
   },
   {
     "year": 2010,
-    "age": 5,
-    "sex": "Philadelphia",
-    "people": 6003
+    "rank": 5,
+    "city": "Philadelphia",
+    "pop": 6003
   },
   {
     "year": 2010,
-    "age": 6,
-    "sex": "Dallas",
-    "people": 5685
+    "rank": 6,
+    "city": "Dallas",
+    "pop": 5685
   },
   {
     "year": 2010,
-    "age": 7,
-    "sex": "Miami",
-    "people": 5513
+    "rank": 7,
+    "city": "Miami",
+    "pop": 5513
   },
   {
     "year": 2010,
-    "age": 8,
-    "sex": "Houston",
-    "people": 5382
+    "rank": 8,
+    "city": "Houston",
+    "pop": 5382
   },
   {
     "year": 2010,
-    "age": 9,
-    "sex": "Atlanta",
-    "people": 4743
+    "rank": 9,
+    "city": "Atlanta",
+    "pop": 4743
   },
   {
     "year": 2010,
-    "age": 10,
-    "sex": "Washington",
-    "people": 4697
+    "rank": 10,
+    "city": "Washington",
+    "pop": 4697
   },
   {
     "year": 2010,
-    "age": 11,
-    "sex": "Boston",
-    "people": 4407
+    "rank": 11,
+    "city": "Boston",
+    "pop": 4407
   },
   {
     "year": 2010,
-    "age": 12,
-    "sex": "Detroit",
-    "people": 4160
+    "rank": 12,
+    "city": "Detroit",
+    "pop": 4160
   },
   {
     "year": 2010,
-    "age": 13,
-    "sex": "Phoenix",
-    "people": 3863
+    "rank": 13,
+    "city": "Phoenix",
+    "pop": 3863
   },
   {
     "year": 2010,
-    "age": 14,
-    "sex": "Seattle",
-    "people": 3446
+    "rank": 14,
+    "city": "Seattle",
+    "pop": 3446
   },
   {
     "year": 2010,
-    "age": 15,
-    "sex": "San Diego",
-    "people": 2985
+    "rank": 15,
+    "city": "San Diego",
+    "pop": 2985
   },
   {
     "year": 2010,
-    "age": 16,
-    "sex": "Denver",
-    "people": 2716
+    "rank": 16,
+    "city": "Denver",
+    "pop": 2716
   },
   {
     "year": 2010,
-    "age": 17,
-    "sex": "Minneapolis",
-    "people": 2651
+    "rank": 17,
+    "city": "Minneapolis",
+    "pop": 2651
   },
   {
     "year": 2010,
-    "age": 18,
-    "sex": "Baltimore",
-    "people": 2497
+    "rank": 18,
+    "city": "Baltimore",
+    "pop": 2497
   },
   {
     "year": 2010,
-    "age": 19,
-    "sex": "Tampa",
-    "people": 2442
+    "rank": 19,
+    "city": "Tampa",
+    "pop": 2442
   },
   {
     "year": 2010,
-    "age": 20,
-    "sex": "St. Louis",
-    "people": 2246
+    "rank": 20,
+    "city": "St. Louis",
+    "pop": 2246
   }
 ]
