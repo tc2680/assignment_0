@@ -6,17 +6,17 @@
 </head>
 <body>
 
-	<table border = "0" width = "800">
+	<table border = "0" width = "888">
 	<tr><td>
-		<h1>&nbsp; &nbsp; D3</h1>
-		<hr color="hotpink"/>
+		<h1>&nbsp; &nbsp; D3 Practice</h1>
+		<hr color="Magenta"/>
 	<tr/><td/>
 	</table>
 	
 	
-	<table border = "0" width = "800">
+	<table border = "0" width = "888">
 	<tr>
-		<td>&nbsp; &nbsp; mouseover, mouseout, & mousedown</td>
+		<td>&nbsp; &nbsp; mouseover, mouseout, mousedown</td>
 		<td><div id="viz_1"></div></td>
 	</tr>
 	</table>
@@ -34,7 +34,7 @@
 		.attr("r", 40)
 		.attr("cx", 50)
 		.attr("cy", 50)
-		.on("mouseover", function(){d3.select(this).style("fill", "blue");})
+		.on("mouseover", function(){d3.select(this).style("fill", "yellow");})
 		.on("mouseout", function(){d3.select(this).style("fill", "white");})
 		.on("mousedown", animateFirstStep);
 
