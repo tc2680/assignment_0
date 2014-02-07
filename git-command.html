@@ -12,24 +12,34 @@
 	</table>
 	
 	<table width="888" CELLPADDING="2px">
-		<tr><td align="right">event&nbsp; &nbsp;</td><td>command</td></tr>
-		<tr><td><hr color="lightgray"/></td><td><hr color="lightgray"/></td></tr>
+		<tr><td align="right">[event]&nbsp; &nbsp;</td><td>[command]</td></tr>
+		<!--<tr><td><hr color="lightgray"/></td><td><hr color="lightgray"/></td></tr>-->
+		
 		<tr><td align="right">delete a local branch&nbsp; &nbsp;</td>
 			<td><i>git branch -d my_local_branch_name</td></tr>
+		
 		<tr><td align="right">download a remote branch from different computers&nbsp; &nbsp;</td>
 			<td><i>git checkout -t origin/my-branch-name</td></tr>
+		
 		<tr><td align="right">clone a specific branch to local computer&nbsp; &nbsp;</td>
 			<td><i>git clone -b my-branch https://git@github.com/username/myproject.git</td></tr>
+		
+		<tr><td align="right">fetch a specific branch and merge it into current local branch&nbsp; &nbsp;</td>
+			<td><i>git pull [REMOTENAME] [BRANCHNAME]</td></tr>
+		
+		
 		<tr><td align="right" valign="top"><br/>add, commit, and push to remote github repo&nbsp; &nbsp;</td>
 			<td><i>
 				<ol>
-				<li>git add README
-				<li>git commit -m "first commit"
-				<li>git remote add origin https://github.com/username/Hello-World.git
+				<li>git add my-file-name
+				<li>git commit -m "my comments here"
+				<li>git remote add origin https://github.com/username/demo-repo.git
 				<li>git push origin master
 				</ol>
 			</td></tr>
-		<tr><td></td><td></td></tr>
+		
+		<tr><td align="right">github help - managing remotes &nbsp;&nbsp;</td>
+			<td><i>https://help.github.com/categories/18/articles</i></td></tr>
 
 	<table>
 </body>
