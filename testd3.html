@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,23 +6,54 @@
     <script type="text/javascript" src="d3.min.js"></script>
 </head>
 <body>
-	Coding D3 - testing mouseover & mouseout
-    <div id="viz"></div>
+
+	<table border = "0" width = "888">
+	<tr><td>
+		<h1>&nbsp; &nbsp; D3 Practice</h1>
+		<hr color="Magenta"/>
+	<tr/><td/>
+	</table>
+	
+	
+	<table border = "0" width = "888">
+	<tr>
+		<td>&nbsp; &nbsp; mouseover, mouseout, mousedown</td>
+		<td><div id="viz_1"></div></td>
+	</tr>
+	</table>
+	
     <script type="text/javascript">
+	<!--## Animating -->
+	var sampleSVG = d3.select("#viz_1")
+    .append("svg")
+    .attr("width", 100)
+    .attr("height", 100);    
+    
+	sampleSVG.append("circle")
+		.style("stroke", "gray")
+		.style("fill", "white")
+		.attr("r", 40)
+		.attr("cx", 50)
+		.attr("cy", 50)
+		.on("mouseover", function(){d3.select(this).style("fill", "yellow");})
+		.on("mouseout", function(){d3.select(this).style("fill", "white");})
+		.on("mousedown", animateFirstStep);
 
-    var sampleSVG = d3.select("#viz")
-        .append("svg")
-        .attr("width", 500)
-        .attr("height", 500);    
+	function animateFirstStep(){
+		d3.select(this)
+		  .transition()            
+			.delay(0)            
+			.duration(1000)
+			.attr("r", 10)
+			.each("end", animateSecondStep);
+	};
 
-    sampleSVG.append("circle")
-        .style("stroke", "gray")
-        .style("fill", "white")
-        .attr("r", 40)
-        .attr("cx", 150)
-        .attr("cy", 150)
-        .on("mouseover", function(){d3.select(this).style("fill", "orange");})
-        .on("mouseout", function(){d3.select(this).style("fill", "black");});
+	function animateSecondStep(){
+		d3.select(this)
+		  .transition()
+			.duration(1000)
+			.attr("r", 40);
+	};
     
     </script>
 </body>
