@@ -1,63 +1,204 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <!--<script type="text/javascript" src="http://mbostock.github.com/d3/d3.js"></script>-->
-    <script type="text/javascript" src="d3.min.js"></script>
-</head>
-<body>
+	<head>
+		<script type="text/javascript" src="d3.min.js"></script>
+		<style type="text/css">
+			.bar {
+				display: inline-block;
+				width: 20px;
+				height: 75px;   /* We'll override height later */
+				background-color: magenta;
+				margin-right: 2px;
+			}
+		</style>
+	</head>
+	<body>
+		<table border = "0" width = "888">
+			<tr><td><h1>&nbsp; &nbsp; D3 Practice</h1><hr color="Magenta"/><tr/><td/>
+		</table>
+		
+		<!--
+		<svg width="500" height="400" >
+		
+		<circle cx="150" cy="150" r="50" fill="green" opacity="0.9"/>
+		<circle cx="190" cy="150" r="50" fill="blue" opacity="0.6"/>
+		<circle cx="240" cy="150" r="50" fill="red" opacity="0.3"/>
+		<circle cx="290" cy="150" r="50" fill="yellow" opacity="0.1"/>
+		
+		<line x1="0" y1="0" x2="250" y2="250" stroke="green"/>
+		<text x="100" y="70" fill="gray" font-size="20">Then good luck, and remember the sky's the limit.</text>
+		</svg>
+		-->
+		<table border="0" width="888" cellpadding="5">
+			<tr><th>&nbsp; bar chart	</th><td><div id="viz_bar_chart_1"></div></td></tr>
+			<tr><th>&nbsp; circle	 	</th><td><div id="circle"></div></td></tr>
+			<tr><th>&nbsp; scatterplot	</th><td><div id="viz_scatterplot"></div></td></tr>
+			<tr><th>&nbsp; animate<br/>(click on the circle)</td><td><div id="viz_animate"></div></td></tr>
+		</table>
+		<!--********** BAR **********-->
+		<script type="text/javascript">
+			//Width and height
+			var w = 500;
+			var h = 100;
+			var barPadding = 1;
+			
+			var dataset = [ 5, 10, 13, 19, 21, 25, 22, 18, 15, 13,
+							11, 12, 15, 20, 18, 17, 16, 18, 23, 25 ];
+			
+			//Create SVG element
+			var svg = d3.select("#viz_bar_chart_1") 
+				.append("svg")
+				.attr("width", w)
+				.attr("height", h);
 
-	<table border = "0" width = "888">
-	<tr><td>
-		<h1>&nbsp; &nbsp; D3 Practice</h1>
-		<hr color="Magenta"/>
-	<tr/><td/>
-	</table>
+			svg.selectAll("rect")
+			   .data(dataset)
+			   .enter()
+			   .append("rect")
+			   .attr("x", function(d, i) {
+			   		return i * (w / dataset.length);
+				})
+			   .attr("y", function(d) {
+			   		return h - (d * 4);
+				})
+			   .attr("width", w / dataset.length - barPadding)
+			   .attr("height", function(d) {
+			   		return d * 4;
+				})
+			   .attr("fill", function(d) {
+				return "rgb(0, 0, " + (d * 10) + ")"; //magenta = #FF00FF = rgb(255, 0, 255)
+				});
+			   
+			svg.selectAll("text")
+			   .data(dataset)
+			   .enter()
+			   .append("text")
+			   .text(function(d){
+				return d;
+			   })
+			   .attr("text-anchor", "middle")
+			   .attr("x", function(d,i){
+				return i * (w/dataset.length) + (w/dataset.length-barPadding)/2;
+			   })
+			   .attr("y", function(d){
+				return h-(d*4) + 14;
+			   })
+			   .attr("font-family", "sans-serif")
+			   .attr("font-size", "11px")
+			   .attr("fill", "white");
+		</script>
+		
+		<!--********** CIRCLE **********-->
+		<script type="text/javascript">
+			var dataset = [ 25, 7, 5, 26, 11, 8, 25, 14, 23, 19, 14, 11, 22, 29, 11, 13, 12, 17, 18, 10];
+			var dataset_csv;
+			
+			//d3.csv("citypop.csv", function(data){dataset_csv = data;});
+			//d3.select("body").selectAll("p").data(dataset_csv);
+			
+			//d3.select("body").selectAll("p") .data(dataset)
+			//  .enter()
+			//  .append("p")
+			//  .style("color", function(d){
+			//	if (d>15) return "hotpink"
+			//	else return "black";})
+			//  .text(function(d){return "i am counting up to " + d;});
+		
+			var w = 500; //Width and height
+			var h = 50;
+			var dataset = [5,10,15,20,25];
+			var svg = d3.select("#circle") //general svg property for id=circle
+				.append("svg")
+				.attr("width", w)
+				.attr("height", h);
+				
+			var circles = svg.selectAll("circle") //specific property
+				.data(dataset)
+				.enter()
+				.append("circle");
+			
+			circles.attr("cx", function(d, i) { return (i * 50) + 25;})
+			       .attr("cy", h/2)
+			       .attr("r", function(d) { return d; })
+			       .attr("fill", "magenta")
+			       .attr("opacity", function(d, i){return 0.1+(2*i/10)});
+		</script>
+		
+		<!--********** SCATTERPLOT **********-->
+		<script type="text/javascript">
+		var w = 600;
+		var h = 110;
+		var dataset = [
+			[10, 20] , [480, 90], [250, 50], [100, 33], [330, 95],
+			[410, 12], [475, 44], [25, 67] , [85, 21] , [220, 88]
+			];
+		var svg = d3.select("#viz_scatterplot")
+			.append("svg")
+			.attr("width", w)
+			.attr("height", h);
+			
+		svg.selectAll("circle")
+			.data(dataset)
+			.enter()
+			.append("circle")
+			.attr("cx", function(d){
+				return d[0];})
+			.attr("cy", function(d){
+				return d[1];})
+			.attr("r", function(d){
+				return Math.sqrt(h-d[1]) }) 
+			.attr("fill", "cyan");
+			
+		svg.selectAll("text")
+			.data(dataset)
+			.enter()
+			.append("text")
+			.text(function(d){
+				return d[0] + ", " + d[1];
+			})
+			.attr("x", function(d){
+				return d[0] + 5;
+			})
+			.attr("y", function(d){
+				return d[1];
+			})
+			.attr("font-family", "scan-serif")
+			.attr("font-size", "11px")
+			.attr("fill", "gray");
+		</script>
 	
+		<!--********** Animation **********-->	
+		<script type="text/javascript">
+		var sampleSVG = d3.select("#viz_animate")
+			.append("svg")
+			.attr("width", 100)
+			.attr("height", 100);    
+	    
+		sampleSVG.append("circle")
+			.style("stroke", "gray")
+			.style("fill", "white")
+			.attr("r", 30)
+			.attr("cx", 50)
+			.attr("cy", 50)
+			.on("mouseover", function(){d3.select(this).style("fill", "yellow");})
+			.on("mouseout", function(){d3.select(this).style("fill", "white");})
+			.on("mousedown", animateFirstStep);
 	
-	<table border = "0" width = "888">
-	<tr>
-		<td>&nbsp; &nbsp; mouseover, mouseout, mousedown</td>
-		<td><div id="viz_1"></div></td>
-	</tr>
+		function animateFirstStep(){
+			d3.select(this)
+			  .transition()            
+				.delay(0)            
+				.duration(1000)
+				.attr("r", 10)
+				.each("end", animateSecondStep);
+		};
 	
-	<tr><td>&nbsp; &nbsp; graph 101</td>
-		<td>&nbsp; &nbsp; <a href="graph_demo.html"> @click me </a></td>
-	</tr>
-	</table>
-	
-    <script type="text/javascript">
-	<!--## Animating -->
-	var sampleSVG = d3.select("#viz_1")
-    .append("svg")
-    .attr("width", 100)
-    .attr("height", 100);    
-    
-	sampleSVG.append("circle")
-		.style("stroke", "gray")
-		.style("fill", "white")
-		.attr("r", 40)
-		.attr("cx", 50)
-		.attr("cy", 50)
-		.on("mouseover", function(){d3.select(this).style("fill", "yellow");})
-		.on("mouseout", function(){d3.select(this).style("fill", "white");})
-		.on("mousedown", animateFirstStep);
-
-	function animateFirstStep(){
-		d3.select(this)
-		  .transition()            
-			.delay(0)            
-			.duration(1000)
-			.attr("r", 10)
-			.each("end", animateSecondStep);
-	};
-
-	function animateSecondStep(){
-		d3.select(this)
-		  .transition()
-			.duration(1000)
-			.attr("r", 40);
-	};
-    
-    </script>
-</body>
+		function animateSecondStep(){
+			d3.select(this)
+			  .transition()
+				.duration(1000)
+				.attr("r", 30);
+		};
+	    </script>
+	</body>
 </html>
