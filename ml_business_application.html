@@ -18,7 +18,7 @@
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Tag');
         data.addColumn('string', 'URL');
-        data.addRows(11);
+        data.addRows(12);
         data.setCell(0, 0, 'Amazon');
         data.setCell(0, 1, 'http://www.amazon.com');
         data.setCell(1, 0, 'Yelp');
@@ -41,6 +41,9 @@
         data.setCell(9, 1, 'http://www.goodreads.com');
         data.setCell(10, 0, 'Google');
         data.setCell(10, 1, 'http://www.google.com');
+        data.setCell(11, 0, 'LinkedIn');
+        data.setCell(11, 1, 'https://www.linkedin.com/');
+        
         // Instantiate our table object.
         var vis = new gviz_word_cumulus.WordCumulus(document.getElementById('mydiv'));
 
