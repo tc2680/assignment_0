@@ -3,6 +3,8 @@
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
     <script type="text/javascript" src="http://word-cumulus-goog-vis.googlecode.com/svn/trunk/wordcumulus.js"></script>
     <script type="text/javascript" src="http://word-cumulus-goog-vis.googlecode.com/svn/trunk/swfobject.js"></script>
+    <script type='text/javascript' src="swfobject.js"></script>
+    <script type='text/javascript' src="wordcumulus.js"></script>
     <script type="text/javascript">
       google.load("visualization", "1");
 
@@ -16,39 +18,102 @@
         var data = new google.visualization.DataTable();
         data.addColumn('string', 'Tag');
         data.addColumn('string', 'URL');
-        data.addRows(8);
+        data.addRows(11);
         data.setCell(0, 0, 'Amazon');
-        data.setCell(0, 1, 'http://');
+        data.setCell(0, 1, 'http://www.amazon.com');
         data.setCell(1, 0, 'Yelp');
-        data.setCell(1, 1, 'http://');
+        data.setCell(1, 1, 'http://www.yelp.com');
         data.setCell(2, 0, 'Netflix');
-        data.setCell(2, 1, 'http://');
+        data.setCell(2, 1, 'http://www.netflix.com');
         data.setCell(3, 0, 'Target');
-        data.setCell(3, 1, 'http://');
+        data.setCell(3, 1, 'http://www.target.com');
         data.setCell(4, 0, 'eBay');
-        data.setCell(4, 1, 'http://');
-        data.setCell(5, 0, 'Movie Finder');
-        data.setCell(5, 1, 'http://');
+        data.setCell(4, 1, 'http://www.ebay.com');
+        data.setCell(5, 0, 'Hulu');
+        data.setCell(5, 1, 'http://www.hulu.com');
         data.setCell(6, 0, 'Twitter');
-        data.setCell(6, 1, 'http://');
+        data.setCell(6, 1, 'http://twitter.com');
         data.setCell(7, 0, 'facebook');
-        data.setCell(7, 1, 'http://');
+        data.setCell(7, 1, 'http://www.facebook.com');
+        data.setCell(8, 0, 'Pandora');
+        data.setCell(8, 1, 'http://www.pandora.com');
+        data.setCell(9, 0, 'Goodreads');
+        data.setCell(9, 1, 'http://www.goodreads.com');
+        data.setCell(10, 0, 'Google');
+        data.setCell(10, 1, 'http://www.google.com');
         // Instantiate our table object.
         var vis = new gviz_word_cumulus.WordCumulus(document.getElementById('mydiv'));
 
-        // Draw our table with the data we created locally.
-        vis.draw(data, {text_color: '#FF00FF', speed: 400, width:600, height:600});
+        // Draw our table with the data we created locally. (#0000FF blue, #FF00FF magenta, #3366FF)
+        vis.draw(data, { text_color: '#493D26', speed: 500, width: 550, height: 550 });
        }
    </script>
+
+    <!------ For WordCloud ------>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <link rel="stylesheet" type="text/css" href="http://visapi-gadgets.googlecode.com/svn/trunk/wordcloud/wc.css"/>
+    <script type="text/javascript" src="http://visapi-gadgets.googlecode.com/svn/trunk/wordcloud/wc.js"></script>
+    <script type="text/javascript">
+        google.load("visualization", "1");
+        google.setOnLoadCallback(draw);
+        function draw() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', 'Text1');
+            data.addColumn('string', 'Text2');
+            data.addRows(13);
+            data.setCell(0, 0, 'Similar Item'); //recommendation interface
+            data.setCell(0, 1, 'Item to Item Correlation, Purchase data'); //recommendation technology
+            data.setCell(1, 0, 'Email');
+            data.setCell(1, 1, 'Attribute Based');
+            data.setCell(2, 0, 'Email');
+            data.setCell(2, 1, 'Attribute Based');
+            data.setCell(3, 0, 'Top N List');
+            data.setCell(3, 1, 'People to People Correlation, Likert');
+            data.setCell(4, 0, 'Average Rating, Text Comments');
+            data.setCell(4, 1, 'Aggregated Rating, Likert, Text');
+            data.setCell(5, 0, 'Similar Item, Top N List');
+            data.setCell(5, 1, 'Item to Item Correlation, Purchase data');
+            data.setCell(6, 0, 'Top N List');
+            data.setCell(6, 1, 'People to People Correlation, Likert');
+            data.setCell(7, 0, 'Average Rating, Text Comments');
+            data.setCell(7, 1, 'Aggregated Rating, Likert, Text');
+            data.setCell(8, 0, 'Top N List');
+            data.setCell(8, 1, 'People to People Correlation, Likert');
+            data.setCell(9, 0, 'Similar Item');
+            data.setCell(9, 1, 'Item to Item Correlation, Editor’s choice');
+            data.setCell(10, 0, 'Top N List, Ordered Search Results, Average Rating');
+            data.setCell(10, 1, 'People to People Correlation, Aggregated Rating, Likert');
+            data.setCell(11, 0, 'Similar Item');
+            data.setCell(11, 1, 'Item to Item Correlation, Editor’s choice');
+            data.setCell(12, 0, 'Browsing');
+            data.setCell(12, 1, 'Attribute Based, Editor’s choice');
+            
+            var outputDiv = document.getElementById('wcdiv');
+            var wc = new WordCloud(outputDiv);
+            wc.draw(data, null);
+        }
+    </script>
+    <!------ For WordCloud ------>
+    
   </head>
 
-  <body>
-  <table align="center" width="666" border="0">
-  <tr align="center"><td>
-        <h3> Machine Learning for (Growing Fast) Business Applications </h3>
-             Catch Me If You Can
-        <div id="mydiv"></div>
-    </td></tr>
-
-  </body>
+<body>
+    <table border=0 width=900 align=center >
+        <tr align="center"><td colspan=2><h3> Recommender Systems for Business Applications </h3> </td></tr>
+        <tr><td valign="top">
+            <table align="center" width="600" border="0">
+                <tr align="center"><td><b>Growing Fast ~ Catch Me If You Can</b></td></tr>
+                <tr align="center"><td><div id="mydiv"></div></td></tr>
+            </table> 
+            </td>
+            <td valign="top">
+            <table align="center" width="300" border="0">
+                <tr align="center"><td><b>Frequently Used Interfaces/Technologies</b></td></tr>
+                <tr><td><br /><br /><div id="wcdiv"></div></td></tr>
+            </table>
+            </td>
+        </tr>
+        <tr align="center"><td colspan=2><hr color="Magenta"/><font size=2>Spring 2014, COMS W4721 @ Columbia University</font></td></tr>
+    </table>  
+</body>
 </html>
