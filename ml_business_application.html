@@ -1,0 +1,54 @@
+<html>
+  <head>
+    <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+    <script type="text/javascript" src="http://word-cumulus-goog-vis.googlecode.com/svn/trunk/wordcumulus.js"></script>
+    <script type="text/javascript" src="http://word-cumulus-goog-vis.googlecode.com/svn/trunk/swfobject.js"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1");
+
+      // Set callback to run when API is loaded
+      google.setOnLoadCallback(drawVisualization);
+
+      // Called when the Visualization API is loaded.
+      function drawVisualization() {
+
+        // Create and populate a data table.
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'Tag');
+        data.addColumn('string', 'URL');
+        data.addRows(8);
+        data.setCell(0, 0, 'Amazon');
+        data.setCell(0, 1, 'http://');
+        data.setCell(1, 0, 'Yelp');
+        data.setCell(1, 1, 'http://');
+        data.setCell(2, 0, 'Netflix');
+        data.setCell(2, 1, 'http://');
+        data.setCell(3, 0, 'Target');
+        data.setCell(3, 1, 'http://');
+        data.setCell(4, 0, 'eBay');
+        data.setCell(4, 1, 'http://');
+        data.setCell(5, 0, 'Movie Finder');
+        data.setCell(5, 1, 'http://');
+        data.setCell(6, 0, 'Twitter');
+        data.setCell(6, 1, 'http://');
+        data.setCell(7, 0, 'facebook');
+        data.setCell(7, 1, 'http://');
+        // Instantiate our table object.
+        var vis = new gviz_word_cumulus.WordCumulus(document.getElementById('mydiv'));
+
+        // Draw our table with the data we created locally.
+        vis.draw(data, {text_color: '#FF00FF', speed: 400, width:600, height:600});
+       }
+   </script>
+  </head>
+
+  <body>
+  <table align="center" width="666" border="0">
+  <tr align="center"><td>
+        <h3> Machine Learning for (Growing Fast) Business Applications </h3>
+             Catch Me If You Can
+        <div id="mydiv"></div>
+    </td></tr>
+
+  </body>
+</html>
