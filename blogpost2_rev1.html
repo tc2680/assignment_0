@@ -1,0 +1,88 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script type="text/javascript" src="d3.js"></script>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript' src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type='text/javascript' src="jquery.csv-0.71.js"></script>
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://jquery-csv.googlecode.com/files/jquery.csv-0.71.js"></script>
+    <script src="http://jquery-csv.googlecode.com/git/src/jquery.csv.js"></script>
+
+    <style type="text/css">
+        hr {
+            background-color: rgb(212, 212, 212);
+            color: rgb(212, 212, 212); 
+            height: 1px;
+            border: 0px none;
+            clear: both;
+        }
+    </style>
+
+    <script type="text/javascript">
+        google.load('visualization', '1', { 'packages': ['motionchart'] });
+        google.setOnLoadCallback(drawVisualization);
+        
+        function drawVisualization() {
+        var query = new google.visualization.Query(
+            'https://docs.google.com/spreadsheets/d/1L8rNLCEEyTzJvLfPcN_1YKU0XLMBRqNdyODG1xUwiaY/edit?usp=sharing');
+
+        query.setQuery("SELECT A, B, C, D, E WHERE (E='NA2013' OR E='NA2013') ORDER BY B, A ");
+        
+        // Send the query with a callback function.
+        query.send(handleQueryResponse);
+      }
+
+      function handleQueryResponse(response) {
+        if (response.isError()) {
+          alert('Error in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+          return;
+        }
+
+        var numRow = response.getDataTable().getNumberOfRows();
+        var remoteDatatable = response.getDataTable();
+        var data = new google.visualization.DataTable();
+        data.addColumn('string', 'DB Name');
+        data.addColumn('date', 'Date');
+        data.addColumn('number', 'No of DB Deployed');
+        data.addColumn('number', 'Growth %');
+        data.addColumn('string', 'DB Model');
+        //alert(remoteDatatable.getValue(0,0))
+        //alert(response.getDataTable().getValue(0,0))
+
+        for (var i = 0; i < numRow; i++) {
+            var db_name = remoteDatatable.getValue(i, 0) //1st column
+            var study_date = remoteDatatable.getValue(i, 1) //2nd column
+            var ranking_score = remoteDatatable.getValue(i, 2) //3rd column
+            var growth = remoteDatatable.getValue(i, 3) //4th column
+            var db_model = remoteDatatable.getValue(i, 4) //5th column
+            data.addRows([
+                [db_name, study_date, ranking_score, growth, db_model]
+            ]);
+        }
+
+        var chart = new google.visualization.MotionChart(document.getElementById('chart_div_motion_trend'));
+        var options = {};
+        options['state'] = '{"showTrails":false,"sizeOption":"3","orderedByY":false,"xZoomedDataMax":168,"time":"2018","playDuration":2000,"xAxisOption":"2","xZoomedIn":false,"orderedByX":false,"colorOption":"_UNIQUE_COLOR","xLambda":1,"yZoomedIn":false,"duration":{"timeUnit":"D","multiplier":1},"yZoomedDataMax":168,"yAxisOption":"2","iconKeySettings":[{"key":{"dim0":"MariaDB"}},{"key":{"dim0":"MySQL"}}],"uniColorForNonSelected":false,"nonSelectedAlpha":0.4,"iconType":"BUBBLE","xZoomedDataMin":1.5333333333333334,"yLambda":1,"dimensions":{"iconDimensions":["dim0"]},"yZoomedDataMin":1.5333333333333334}';
+
+        options['width'] = 800;
+        options['height'] = 400;
+        chart.draw(data, options);
+        //chart.draw(data, { width: 800, height: 400 });
+        }
+    </script>
+</head>
+
+<body>
+    <table border="0" align="center" width="900">
+    <tr align="center"><td><br /><h3>Survey Conducted for MySQL Variation Deployed in 2013 and (Predicted) 2018</h3></td></tr>
+        <tr align="center" valign="top"><td>
+            <div id="chart_div_motion_trend"></div>
+            <br /><br /><hr style="background-color:lightgray;height:1px;width:800" />
+        </td></tr>
+    </table> 
+    
+    
+
+  </body>
+</html>
