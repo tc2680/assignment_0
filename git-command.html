@@ -5,12 +5,18 @@
 <body>
 
 	<table border = "0" width = "888">
+<<<<<<< HEAD
 		<tr><td>
 			<h1>&nbsp; &nbsp; Frequently Used Git Commands</h1>
+=======
+		<tr><td align="center">
+			<h2>&nbsp; Frequently Used Git Commands</h2>
+>>>>>>> FETCH_HEAD
 			<hr color="Magenta"/>
 		<tr/><td/>
 	</table>
 	
+<<<<<<< HEAD
 	<table width="888" CELLPADDING="2px">
 		<tr><td align="right">event&nbsp; &nbsp;</td><td>command</td></tr>
 		<tr><td><hr color="lightgray"/></td><td><hr color="lightgray"/></td></tr>
@@ -32,5 +38,68 @@
 		<tr><td></td><td></td></tr>
 
 	<table>
+=======
+	<table width="900" CELLPADDING="2px">
+		<tr><td align="right">[event]&nbsp; &nbsp;</td><td>[command]</td></tr>
+		<!--<tr><td><hr color="lightgray"/></td><td><hr color="lightgray"/></td></tr>-->
+		
+		<tr><td align="right">delete a local branch&nbsp; &nbsp;</td>
+			<td>git branch -d my_local_branch_name</td></tr>
+		
+		<tr><td align="right">download a remote branch from different computers&nbsp; &nbsp;</td>
+			<td>git checkout -t origin/my-branch-name</td></tr>
+		
+		<tr><td align="right">clone a specific branch to local computer&nbsp; &nbsp;</td>
+			<td>git clone -b my-branch https://git@github.com/username/myproject.git</td></tr>
+		
+		<tr><td align="right">fetch a specific branch and merge it into current local branch&nbsp; &nbsp;</td>
+			<td>git pull [REMOTENAME] [BRANCHNAME]</td></tr>
+		
+		<tr><td align="right" valign="top"><br/>add, commit, and push to remote github repo&nbsp; &nbsp;</td>
+			<td><ul><li>git add my-file-name
+					<li>git commit -m "my comments here"
+					<li>git remote add origin https://github.com/username/demo-repo.git
+					<li>git push origin master
+				</ul>
+			</td></tr>
+		
+		<tr><td align="right" valign="top"><br/>github help - managing remotes &nbsp;&nbsp;</td>
+			<td align="left" valign="top">
+				<ul><li><a href="https://help.github.com/articles/adding-a-remote">adding a remote</a></li>
+					<li><a href="https://help.github.com/articles/changing-a-remote-s-url">changing a remote's URL</a></li>
+					<li><a href="https://help.github.com/articles/renaming-a-remote">renaming a remote</a></li>
+					<li><a href="https://help.github.com/articles/removing-a-remote">removing a remote</a></li>
+					<li><a href="https://help.github.com/articles/fetching-a-remote">fetching a remote</a></li>
+					<li><a href="https://help.github.com/articles/pushing-to-a-remote">pushing to a remote</a></li>
+					<li><a href="https://help.github.com/categories/18/articles">main article</a></li>
+				</ul>
+			</td></tr>
+					
+		<tr><td align="right" valign="top"><br/>git basic 2 &nbsp;&nbsp;</td>
+				<td><ul>
+					------ commend only required once to define "upstream"<br/>
+					------ "upstream" is a local name for remote location
+					<li>$ git remote add upstream https://github.com/malecki/edav.git </li>
+					<li>$ git remote add upstream https://github.com/tc2680/edav.git  </li>
+					<br/>------ check current remote setting
+					<li>$ git remote -v	  </li>
+					<br/>------ remove/then reset the remote location "upstream"
+					<li>$ git remote rm upstream </li>
+					<br/>------ you can replace "rebase" with "merge"
+					<li>$ git fetch upstream </li>
+					<li>$ git checkout gh-pages </li>
+					<li>$ git rebase upstream/gh-pages </li>
+					</ul>
+				</td></tr>
+
+		<tr><td align="right" valign="top">git reference &nbsp;&nbsp;</td>
+			<td><a href="http://gitref.org/branching/">branching and merging</a><br/>
+				<a href="http://git-scm.com/book/en/Git-Basics-Working-with-Remotes">working with remotes (2nd ref)</a>
+			</td></tr>
+
+		<tr><td colspan=2><br/><hr color="Magenta"/></td></tr>
+	<table>
+	
+>>>>>>> FETCH_HEAD
 </body>
 </html>
