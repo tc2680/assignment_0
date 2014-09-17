@@ -1,0 +1,109 @@
+<!DOCTYPE HTML>
+
+<html>
+<head>
+    <script type="text/javascript" src="https://www.google.com/jsapi?autoload={'modules':[{'name':'visualization',
+           'version':'1','packages':['timeline']}]}"></script>
+    <script type="text/javascript">
+
+    google.setOnLoadCallback(drawChart);
+    function drawChart() {
+        var container = document.getElementById('timeline-chart');
+      var chart = new google.visualization.Timeline(container);
+      var dataTable = new google.visualization.DataTable();
+      dataTable.addColumn({ type: 'string', id: 'Term' });
+      dataTable.addColumn({ type: 'string', id: 'Name' });
+      dataTable.addColumn({ type: 'date', id: 'Start' });
+      dataTable.addColumn({ type: 'date', id: 'End' });
+      dataTable.addRows([
+          ['HTML 0.9, The WWW Project, first web browser', 'Pre-Web', new Date(1990, 1, 1), new Date(1991, 12, 31)]
+        , ['1', 'Content Filtering', new Date(1992, 1, 1), new Date(1992, 12, 31)]
+        , ['2', 'information Tapestry', new Date(1992, 1, 1), new Date(1998, 12, 31)]
+        , ['3', 'item-based collaborative filtering', new Date(1999, 1, 1), new Date(2005, 12, 31)]
+        , ['4', 'Netflix Prize', new Date(2005, 1, 1), new Date(2009, 12, 31)]
+        , ['5', 'Context-Aware, User-Centric', new Date(2010, 1, 1), new Date(2020, 12, 31)]
+        
+        ]);
+
+      var options = {
+        timeline: { showRowLabels: false }
+      };
+
+      chart.draw(dataTable, options);
+    }
+    </script>
+
+</head>
+
+
+<body>
+
+<table width="600" align="center">
+    <tr align="center"><td colspan=4>
+		<h2>Timeline of Recommender Systems Research</h2><br/>
+	    </td></tr>
+	<tr><td><div id="timeline-chart" style="width: 900px; height: 350px;"></div></td></tr>	
+			
+    <tr>
+    
+    <br/><br/>History: Before 1992
+	    Content Filtering 
+    An architecture for large scale information systems [1985] (Gifford, D.K)
+    MAFIA: An active mail-filter agent for an intelligent document processing support [1990] (Lutz, E.)
+    A rule-based message filtering system [1988] (Pollock, S. )
+
+    <br/>History: 1992-1998
+    Tapestry by Xerox Palo Alto [1992]
+    First system designed by collaborative filtering
+    <li>Grouplens [1994]
+    First recommender system using rating data</li>
+    Movielens [1997]
+    First movie recommender system
+    Provide well-known dataset for researchers
+
+    History: 1992-1998
+    Fab : content-based collaborative recommendation
+    First unified recommender system
+    Empirical Analysis of Predictive Algorithms for Collaborative Filtering [1998] (John S. Breese)
+    Systematically evaluate user-based collaborative filtering
+
+    <br/><br/>History: 1999-2005
+    Amazon proposed item-based collaborative filtering (Patent is filed in 1998 and issued in 2001) [link]
+    Thomas Hofmann proposed pLSA [1999] and apply similar method on collaborative filtering [2004]
+    Pandora began music genome project [2000]
+    Lastfm using Audioscrobbler to generate user taste profile on musics.
+    Evaluating collaborative filtering recommender systems [2004] (Jonathan L. Herlocker)
+
+    <br/><br/>History: 2005-2009
+    Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions. [2005] (Alexander Tuzhilin)
+    Netflix Prize [link]
+    Latent Factor Model (SVD, RSVD, NSVD, SVD++)
+    Temporal Dynamic Collaborative Filtering
+    Yehuda Koren [link]’s team get prize
+    ACM Conference on Recommender System [2007] (Minneapolis, Minnesota, USA)
+    Digg, Youtube try recommender system.
+
+    <br/><br/>History: 2010-now
+    Context-Aware Recommender Systems
+    Music Recommendation and Discovery
+    Recommender Systems and the Social Web
+    Information Heterogeneity and Fusion in Recommender Systems
+    Human Decision Making in Recommender Systems
+    Personalization in Mobile Applications
+    Novelty and Diversity in Recommender Systems
+    User-Centric Evaluation
+    Facebook launches instant personalization [2010]
+    Clicker
+    Bing
+    Trip Advisor
+    Rotten Tomatoes
+    Pandora
+    ……
+    </tr>
+    <tr align="center"><td colspan=4>
+        <hr color="Magenta"/>
+        <font size=2>Spring 2014, COMS W4721 @ Columbia University</font>
+    </td></tr>
+</table>
+</body>
+</html>
